@@ -196,13 +196,17 @@ def generate_data(records_per_country):
 
     # Note1 combinations
     task_combinations = [
-        ("CA", "AAAA"), ("CA", "LMU-SP Release"), ("CA", "LMU-Legal Bills"), 
+        ("CA", "AAAA"), ("CA", "LMU-SP Release"), ("CA", "LMU-Legal Bills"),
         ("CA", "LMU-CRIS"), ("CA", "LMU-Provision"), ("CA", "Settlement"),
         ("CE", "Additional Information Required"), ("CH", "BIB Maintenance Online request"),
-        ("CM", "Change of address"), ("CM", "Change of Company Name"),
+        ("CM", "Change of address"), ("CM", "Change of Company Name"), 
+        ("DD", "Account Package-High"), ("DD", "decrease limit"), 
+        ("DD", "decrease limit Manual Processing"), ("DD", "Drawdown Manual Processing"),
+        ("DD", "Facility Drawdown"), ("DD", "Facility Drawdown Manual Processing"),
+        ("DD", "General Task"), ("FS", "FS-1"), ("FS", "FS-2"), ("FS", "What-Ifs")
         # Add the rest of the combinations from Note1...
     ]
-    country_codes = ["hk", "sg", "my", "uk"]
+    country_codes = ["HK", "SG", "MY", "UK"]
 
     # Table 1: CL365_UserAvailability
     user_availability = []
@@ -219,18 +223,18 @@ def generate_data(records_per_country):
     user_availability_df = pd.DataFrame(user_availability)
 
     # Table 2: CL365_UserAvailabilityLogs
-    actions = ["Log in", "Error", "Continued Case Assignment", "Log Out", 
-               "Points Earned", "Stopped Case Assignment", "Task Assigned", 
+    actions = ["Log in", "Error", "Continued Case Assignment", "Log Out",
+               "Points Earned", "Stopped Case Assignment", "Task Assigned",
                "Task Cancelled", "Task Completed", "Task Opened", "Task Returned to RM"]
     user_availability_logs = []
     
     for email in user_availability_df["Login Email"]:
         action = random.choice(actions)  # Assign a single action to the user
         task_id = None
-        if action in ["Error", "Continued Case Assignment", "Points Earned", 
-                      "Task Assigned", "Task Cancelled", "Task Completed", 
+        if action in ["Error", "Continued Case Assignment", "Points Earned",
+                      "Task Assigned", "Task Cancelled", "Task Completed",
                       "Task Opened", "Task Returned to RM"]:
-            task_id = f"TASK-{random.randint(10000, 999999)}"  # Assign task ID if applicable
+            task_id = f"TASK-{fake.unique.random_int(min=10000, max=999999)}"  # Ensure unique Task ID
         user_availability_logs.append({
             "Login Email": email,
             "Action": action,
@@ -249,22 +253,29 @@ def generate_data(records_per_country):
 
     # Table 3: CL365_UserSkillset
     user_skillset = []
+    unique_combinations = set()  # Track unique combinations of (email, TaskType, Sub Task)
+
     for email in user_availability_df["Login Email"]:
-        for _ in range(random.randint(1, len(task_combinations))):
-            task_type, sub_task = random.choice(task_combinations)
-            country_code = email.split('.')[-1]
-            mean_completion = int(np.random.normal(1300, 200))  # Mean ~1300, StdDev ~200
-            mean_completion = max(0, min(mean_completion, 2000))
-            error_rate = round(np.random.normal(0.3, 0.1), 2)  # Mean ~0.3, StdDev ~0.1
-            error_rate = max(0.0, min(error_rate, 1.0))
-            user_skillset.append({
-                "Login Email": email,
-                "TaskType": task_type,
-                "Sub Task": sub_task,
-                "Country Code": country_code,
-                "Mean Completion": mean_completion,
-                "Error Rate": error_rate
-            })
+        num_records = random.randint(1, 7)  # Random number of records between 1 and 7
+        selected_combinations = random.sample(task_combinations, min(num_records, len(task_combinations)))
+        for task_type, sub_task in selected_combinations:
+            combination_key = (email, task_type, sub_task)
+            
+            if combination_key not in unique_combinations:  # Check uniqueness
+                unique_combinations.add(combination_key)
+                country_code = random.choice(country_codes)
+                mean_completion = int(np.random.normal(1300, 200))  # Mean ~1300, StdDev ~200
+                mean_completion = max(0, min(mean_completion, 2000))
+                error_rate = round(np.random.normal(0.3, 0.1), 2)  # Mean ~0.3, StdDev ~0.1
+                error_rate = max(0.0, min(error_rate, 1.0))
+                user_skillset.append({
+                    "Login Email": email,
+                    "TaskType": task_type,
+                    "Sub Task": sub_task,
+                    "Country Code": country_code,
+                    "Mean Completion": mean_completion,
+                    "Error Rate": error_rate
+                })
 
     user_skillset_df = pd.DataFrame(user_skillset)
 
@@ -282,11 +293,29 @@ def generate_data(records_per_country):
 
     task_statistics_df = pd.DataFrame(task_statistics)
 
+    # Calculate average Mean Completion and Error Rate for each combination in Table 4
+    aggregated_data = user_skillset_df.groupby(["TaskType", "Sub Task", "Country Code"]).agg(
+        Mean_Completion_Avg=("Mean Completion", "mean"),
+        Error_Rate_Avg=("Error Rate", "mean")
+    ).reset_index()
+
+    # Merge aggregated data into Table 4
+    task_statistics_df = task_statistics_df.merge(
+        aggregated_data,
+        on=["TaskType", "Sub Task", "Country Code"],
+        how="left"
+    )
+
+    # Rename columns to match Table 4 structure
+    task_statistics_df["Mean Completion"] = task_statistics_df["Mean_Completion_Avg"]
+    task_statistics_df["Error Rate"] = task_statistics_df["Error_Rate_Avg"]
+    task_statistics_df.drop(columns=["Mean_Completion_Avg", "Error_Rate_Avg"], inplace=True)
+
     return user_availability_df, user_availability_logs_df, user_skillset_df, task_statistics_df
 
 
 # Usage Example
-records_per_country = 10
+records_per_country = 50
 table_1, table_2, table_3, table_4 = generate_data(records_per_country)
 
 print("Table 1: User Availability")
@@ -296,4 +325,4 @@ print(table_2.head(20))
 print("\nTable 3: User Skillset")
 print(table_3.head(20))
 print("\nTable 4: Task Statistics")
-print(table_4.head(20))
+print(table_4.head(50))
