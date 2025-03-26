@@ -184,145 +184,164 @@ How does this version align with your expectations? Let me know if further adjus
 
 
 
-from faker import Faker
-import pandas as pd
-import random
-import numpy as np
+Table 1: User Availability
+                       Login Email  Available
+0          megan.chang@hsbc.com.SG      False
+1         robert.green@hsbc.com.SG       True
+2     william.sullivan@hsbc.com.SG       True
+3       kristen.turner@hsbc.com.SG      False
+4         thomas.silva@hsbc.com.HK       True
+5       rebecca.wagner@hsbc.com.SG       True
+6          juan.campos@hsbc.com.HK       True
+7       christine.king@hsbc.com.SG      False
+8        renee.mcgrath@hsbc.com.HK       True
+9         lisa.barrera@hsbc.com.UK       True
+10          kyle.blair@hsbc.com.MY       True
+11       rachel.sutton@hsbc.com.UK       True
+12       thomas.garcia@hsbc.com.SG      False
+13           ryan.carr@hsbc.com.HK      False
+14          robin.levy@hsbc.com.SG       True
+15       thomas.grimes@hsbc.com.HK       True
+16      jorge.trujillo@hsbc.com.HK       True
+17           ana.smith@hsbc.com.SG       True
+18       jennifer.ross@hsbc.com.SG       True
+19     mallory.barnett@hsbc.com.UK       True
+20        aaron.snyder@hsbc.com.MY       True
+21     mikayla.sanchez@hsbc.com.UK      False
+22        mark.harrell@hsbc.com.MY      False
+23       james.bradley@hsbc.com.SG       True
+24          john.ponce@hsbc.com.SG       True
+25          linda.west@hsbc.com.UK       True
+26  christopher.flores@hsbc.com.UK       True
+27       william.cantu@hsbc.com.MY      False
+28       daniel.arnold@hsbc.com.HK       True
+29      jasmine.kelley@hsbc.com.HK       True
 
-def generate_data(records_per_country):
-    fake = Faker()
-    Faker.seed(0)  # For reproducibility
-    np.random.seed(0)  # For reproducibility
+Table 2: User Availability Logs
+                       Login Email                     Action       TaskID
+0          megan.chang@hsbc.com.SG                     Log in         None
+1         robert.green@hsbc.com.SG              Points Earned  TASK-846826
+2     william.sullivan@hsbc.com.SG              Task Assigned   TASK-31476
+3       kristen.turner@hsbc.com.SG                    Log Out         None
+4         thomas.silva@hsbc.com.HK              Points Earned  TASK-698898
+5       rebecca.wagner@hsbc.com.SG                Task Opened  TASK-938257
+6          juan.campos@hsbc.com.HK              Points Earned   TASK-10252
+7       christine.king@hsbc.com.SG                     Log in         None
+8        renee.mcgrath@hsbc.com.HK              Points Earned  TASK-786727
+9         lisa.barrera@hsbc.com.UK             Task Cancelled  TASK-200808
+10          kyle.blair@hsbc.com.MY                      Error  TASK-327133
+11       rachel.sutton@hsbc.com.UK              Points Earned  TASK-541478
+12       thomas.garcia@hsbc.com.SG                    Log Out         None
+13           ryan.carr@hsbc.com.HK                    Log Out         None
+14          robin.levy@hsbc.com.SG                Task Opened  TASK-607967
+15       thomas.grimes@hsbc.com.HK        Task Returned to RM  TASK-276820
+16      jorge.trujillo@hsbc.com.HK             Task Cancelled  TASK-358846
+17           ana.smith@hsbc.com.SG  Continued Case Assignment   TASK-78808
+18       jennifer.ross@hsbc.com.SG             Task Cancelled  TASK-527482
+19     mallory.barnett@hsbc.com.UK                Task Opened  TASK-911653
+20        aaron.snyder@hsbc.com.MY             Task Completed  TASK-284734
+21     mikayla.sanchez@hsbc.com.UK    Stopped Case Assignment         None
+22        mark.harrell@hsbc.com.MY                     Log in         None
+23       james.bradley@hsbc.com.SG             Task Cancelled  TASK-998751
+24          john.ponce@hsbc.com.SG              Task Assigned  TASK-875096
+25          linda.west@hsbc.com.UK        Task Returned to RM  TASK-327513
+26  christopher.flores@hsbc.com.UK  Continued Case Assignment  TASK-820004
+27       william.cantu@hsbc.com.MY                    Log Out         None
+28       daniel.arnold@hsbc.com.HK              Task Assigned  TASK-437895
+29      jasmine.kelley@hsbc.com.HK              Points Earned  TASK-412820
 
-    # Note1 combinations
-    task_combinations = [
-        ("CA", "AAAA"), ("CA", "LMU-SP Release"), ("CA", "LMU-Legal Bills"),
-        ("CA", "LMU-CRIS"), ("CA", "LMU-Provision"), ("CA", "Settlement"),
-        ("CE", "Additional Information Required"), ("CH", "BIB Maintenance Online request"),
-        ("CM", "Change of address"), ("CM", "Change of Company Name"), 
-        ("DD", "Account Package-High"), ("DD", "decrease limit"), 
-        ("DD", "decrease limit Manual Processing"), ("DD", "Drawdown Manual Processing"),
-        ("DD", "Facility Drawdown"), ("DD", "Facility Drawdown Manual Processing"),
-        ("DD", "General Task"), ("FS", "FS-1"), ("FS", "FS-2"), ("FS", "What-Ifs")
-        # Add the rest of the combinations from Note1...
-    ]
-    country_codes = ["HK", "SG", "MY", "UK"]
+Table 3: User Skillset
+                     Login Email TaskType                             Sub Task Country Code  Mean Completion  Error Rate
+0        megan.chang@hsbc.com.SG       DD                       decrease limit           MY             1652        0.34
+1        megan.chang@hsbc.com.SG       CE      Additional Information Required           UK             1495        0.52
+2        megan.chang@hsbc.com.SG       DD                         General Task           HK             1673        0.20
+3        megan.chang@hsbc.com.SG       CA                           Settlement           UK             1490        0.28
+4       robert.green@hsbc.com.SG       CA                           Settlement           MY             1279        0.34
+5       robert.green@hsbc.com.SG       DD  Facility Drawdown Manual Processing           HK             1328        0.45
+6       robert.green@hsbc.com.SG       CM               Change of Company Name           HK             1452        0.31
+7       robert.green@hsbc.com.SG       CA                                 AAAA           UK             1388        0.33
+8       robert.green@hsbc.com.SG       DD                    Facility Drawdown           SG             1598        0.28
+9       robert.green@hsbc.com.SG       DD           Drawdown Manual Processing           HK             1362        0.21
+10  william.sullivan@hsbc.com.SG       CA                                 AAAA           HK              789        0.37
+11  william.sullivan@hsbc.com.SG       CA                           Settlement           UK             1472        0.23
+12  william.sullivan@hsbc.com.SG       FS                                 FS-1           HK             1753        0.15
+13  william.sullivan@hsbc.com.SG       CA                       LMU-SP Release           UK             1309        0.28
+14  william.sullivan@hsbc.com.SG       CA                      LMU-Legal Bills           SG             1606        0.45
+15  william.sullivan@hsbc.com.SG       DD                       decrease limit           HK             1330        0.34
+16  william.sullivan@hsbc.com.SG       CH       BIB Maintenance Online request           SG             1122        0.10
+17    kristen.turner@hsbc.com.SG       DD                    Facility Drawdown           HK             1230        0.32
+18    kristen.turner@hsbc.com.SG       CA                        LMU-Provision           SG             1546        0.42
+19    kristen.turner@hsbc.com.SG       DD           Drawdown Manual Processing           UK             1222        0.27
+20    kristen.turner@hsbc.com.SG       CH       BIB Maintenance Online request           UK             1090        0.16
+21    kristen.turner@hsbc.com.SG       FS                             What-Ifs           HK              958        0.50
+22    kristen.turner@hsbc.com.SG       CM                    Change of address           SG             1198        0.26
+23      thomas.silva@hsbc.com.HK       CA                        LMU-Provision           HK             1049        0.38
+24      thomas.silva@hsbc.com.HK       DD     decrease limit Manual Processing           UK              977        0.28
+25      thomas.silva@hsbc.com.HK       CA                                 AAAA           UK             1120        0.34
+26      thomas.silva@hsbc.com.HK       DD           Drawdown Manual Processing           MY             1197        0.18
+27    rebecca.wagner@hsbc.com.SG       FS                                 FS-1           HK             1294        0.34
+28       juan.campos@hsbc.com.HK       DD                 Account Package-High           SG             1313        0.33
+29       juan.campos@hsbc.com.HK       FS                                 FS-1           MY             1173        0.26
 
-    # Table 1: CL365_UserAvailability
-    user_availability = []
-    for _ in range(records_per_country * len(country_codes)):
-        first_name = fake.first_name().lower()
-        last_name = fake.last_name().lower()
-        domain = random.choice(country_codes)
-        login_email = f"{first_name}.{last_name}@hsbc.com.{domain}"
-        user_availability.append({
-            "Login Email": login_email,
-            "Available": True  # Temporarily set to True; will be updated later
-        })
-
-    user_availability_df = pd.DataFrame(user_availability)
-
-    # Table 2: CL365_UserAvailabilityLogs
-    actions = ["Log in", "Error", "Continued Case Assignment", "Log Out",
-               "Points Earned", "Stopped Case Assignment", "Task Assigned",
-               "Task Cancelled", "Task Completed", "Task Opened", "Task Returned to RM"]
-    user_availability_logs = []
-    
-    for email in user_availability_df["Login Email"]:
-        action = random.choice(actions)  # Assign a single action to the user
-        task_id = None
-        if action in ["Error", "Continued Case Assignment", "Points Earned",
-                      "Task Assigned", "Task Cancelled", "Task Completed",
-                      "Task Opened", "Task Returned to RM"]:
-            task_id = f"TASK-{fake.unique.random_int(min=10000, max=999999)}"  # Ensure unique Task ID
-        user_availability_logs.append({
-            "Login Email": email,
-            "Action": action,
-            "TaskID": task_id
-        })
-
-    user_availability_logs_df = pd.DataFrame(user_availability_logs)
-
-    # Update Table 1: Set Available to False if no TaskID exists in Table 2 for the same email
-    def check_availability(email):
-        log_entries = user_availability_logs_df[user_availability_logs_df["Login Email"] == email]
-        has_task_id = log_entries["TaskID"].notna().any()
-        return has_task_id  # True if TaskID exists, else False
-
-    user_availability_df["Available"] = user_availability_df["Login Email"].apply(check_availability)
-
-    # Table 3: CL365_UserSkillset
-    user_skillset = []
-    unique_combinations = set()  # Track unique combinations of (email, TaskType, Sub Task)
-
-    for email in user_availability_df["Login Email"]:
-        num_records = random.randint(1, 7)  # Random number of records between 1 and 7
-        selected_combinations = random.sample(task_combinations, min(num_records, len(task_combinations)))
-        for task_type, sub_task in selected_combinations:
-            combination_key = (email, task_type, sub_task)
-            
-            if combination_key not in unique_combinations:  # Check uniqueness
-                unique_combinations.add(combination_key)
-                country_code = random.choice(country_codes)
-                mean_completion = int(np.random.normal(1300, 200))  # Mean ~1300, StdDev ~200
-                mean_completion = max(0, min(mean_completion, 2000))
-                error_rate = round(np.random.normal(0.3, 0.1), 2)  # Mean ~0.3, StdDev ~0.1
-                error_rate = max(0.0, min(error_rate, 1.0))
-                user_skillset.append({
-                    "Login Email": email,
-                    "TaskType": task_type,
-                    "Sub Task": sub_task,
-                    "Country Code": country_code,
-                    "Mean Completion": mean_completion,
-                    "Error Rate": error_rate
-                })
-
-    user_skillset_df = pd.DataFrame(user_skillset)
-
-    # Table 4: CL365_TaskStatistics
-    task_statistics = []
-    for task_type, sub_task in task_combinations:
-        for country_code in country_codes:
-            task_statistics.append({
-                "TaskType": task_type,
-                "Sub Task": sub_task,
-                "Country Code": country_code,
-                "Mean Completion": None,  # Placeholder for aggregation
-                "Error Rate": None       # Placeholder for aggregation
-            })
-
-    task_statistics_df = pd.DataFrame(task_statistics)
-
-    # Calculate average Mean Completion and Error Rate for each combination in Table 4
-    aggregated_data = user_skillset_df.groupby(["TaskType", "Sub Task", "Country Code"]).agg(
-        Mean_Completion_Avg=("Mean Completion", "mean"),
-        Error_Rate_Avg=("Error Rate", "mean")
-    ).reset_index()
-
-    # Merge aggregated data into Table 4
-    task_statistics_df = task_statistics_df.merge(
-        aggregated_data,
-        on=["TaskType", "Sub Task", "Country Code"],
-        how="left"
-    )
-
-    # Rename columns to match Table 4 structure
-    task_statistics_df["Mean Completion"] = task_statistics_df["Mean_Completion_Avg"]
-    task_statistics_df["Error Rate"] = task_statistics_df["Error_Rate_Avg"]
-    task_statistics_df.drop(columns=["Mean_Completion_Avg", "Error_Rate_Avg"], inplace=True)
-
-    return user_availability_df, user_availability_logs_df, user_skillset_df, task_statistics_df
-
-
-# Usage Example
-records_per_country = 50
-table_1, table_2, table_3, table_4 = generate_data(records_per_country)
-
-print("Table 1: User Availability")
-print(table_1.head(20))
-print("\nTable 2: User Availability Logs")
-print(table_2.head(20))
-print("\nTable 3: User Skillset")
-print(table_3.head(20))
-print("\nTable 4: Task Statistics")
-print(table_4.head(50))
+Table 4: Task Statistics
+   TaskType                          Sub Task Country Code  Mean Completion  Error Rate
+0        CA                              AAAA           HK      1272.900000    0.272000
+1        CA                              AAAA           SG      1331.333333    0.325000
+2        CA                              AAAA           MY      1377.750000    0.333750
+3        CA                              AAAA           UK      1344.000000    0.250000
+4        CA                    LMU-SP Release           HK      1230.818182    0.256364
+5        CA                    LMU-SP Release           SG      1258.727273    0.326364
+6        CA                    LMU-SP Release           MY      1288.875000    0.261250
+7        CA                    LMU-SP Release           UK      1260.666667    0.324444
+8        CA                   LMU-Legal Bills           HK      1279.909091    0.279091
+9        CA                   LMU-Legal Bills           SG      1417.400000    0.323000
+10       CA                   LMU-Legal Bills           MY      1303.000000    0.368889
+11       CA                   LMU-Legal Bills           UK      1259.833333    0.363333
+12       CA                          LMU-CRIS           HK      1257.846154    0.312308
+13       CA                          LMU-CRIS           SG      1380.142857    0.295714
+14       CA                          LMU-CRIS           MY      1269.900000    0.263000
+15       CA                          LMU-CRIS           UK      1368.545455    0.282727
+16       CA                     LMU-Provision           HK      1225.187500    0.292500
+17       CA                     LMU-Provision           SG      1341.071429    0.259286
+18       CA                     LMU-Provision           MY      1221.769231    0.283846
+19       CA                     LMU-Provision           UK      1326.909091    0.350909
+20       CA                        Settlement           HK      1334.600000    0.279333
+21       CA                        Settlement           SG      1223.000000    0.233333
+22       CA                        Settlement           MY      1354.500000    0.354286
+23       CA                        Settlement           UK      1287.666667    0.263333
+24       CE   Additional Information Required           HK      1312.800000    0.289000
+25       CE   Additional Information Required           SG      1271.727273    0.327273
+26       CE   Additional Information Required           MY      1265.100000    0.349000
+27       CE   Additional Information Required           UK      1345.111111    0.361111
+28       CH    BIB Maintenance Online request           HK      1266.500000    0.273333
+29       CH    BIB Maintenance Online request           SG      1283.333333    0.285000
+30       CH    BIB Maintenance Online request           MY      1229.333333    0.320000
+31       CH    BIB Maintenance Online request           UK      1292.700000    0.263000
+32       CM                 Change of address           HK      1302.933333    0.294667
+33       CM                 Change of address           SG      1349.800000    0.259000
+34       CM                 Change of address           MY      1263.000000    0.315000
+35       CM                 Change of address           UK      1305.750000    0.198750
+36       CM            Change of Company Name           HK      1266.437500    0.285625
+37       CM            Change of Company Name           SG      1201.400000    0.288000
+38       CM            Change of Company Name           MY      1356.000000    0.280000
+39       CM            Change of Company Name           UK      1255.285714    0.297857
+40       DD              Account Package-High           HK      1239.571429    0.302857
+41       DD              Account Package-High           SG      1256.105263    0.286316
+42       DD              Account Package-High           MY      1275.714286    0.284286
+43       DD              Account Package-High           UK      1301.833333    0.325000
+44       DD                    decrease limit           HK      1315.285714    0.315714
+45       DD                    decrease limit           SG      1292.700000    0.274000
+46       DD                    decrease limit           MY      1392.666667    0.301667
+47       DD                    decrease limit           UK      1365.000000    0.262857
+48       DD  decrease limit Manual Processing           HK      1207.769231    0.275385
+49       DD  decrease limit Manual Processing           SG      1254.200000    0.290000
+50       DD  decrease limit Manual Processing           MY      1246.900000    0.318000
+51       DD  decrease limit Manual Processing           UK      1346.500000    0.385000
+52       DD        Drawdown Manual Processing           HK      1379.142857    0.290000
+53       DD        Drawdown Manual Processing           SG      1266.500000    0.305000
+54       DD        Drawdown Manual Processing           MY      1278.800000    0.318000
+55       DD        Drawdown Manual Processing           UK      1234.090909    0.291818
+56       DD                 Facility Drawdown           HK      1380.545455    0.318182
+57       DD                 Facility Drawdown           SG      1402.625000    0.276250
+58       DD                 Facility Drawdown           MY      1305.250000    0.275000
+59       DD                 Facility Drawdown           UK      1192.333333    0.355000
