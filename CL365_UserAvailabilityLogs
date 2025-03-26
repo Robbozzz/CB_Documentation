@@ -1,1001 +1,1001 @@
 Login Email,Action,TaskID
-megan.chang@hsbc.com.SG,Task Opened,TASK-228748
-robert.green@hsbc.com.MY,Task Completed,TASK-922895
-william.sullivan@hsbc.com.UK,Points Earned,TASK-975583
-kristen.turner@hsbc.com.SG,Log Out,
-thomas.silva@hsbc.com.SG,Task Opened,TASK-412602
-rebecca.wagner@hsbc.com.HK,Task Completed,TASK-216368
-juan.campos@hsbc.com.SG,Continued Case Assignment,TASK-344777
-christine.king@hsbc.com.MY,Task Returned to RM,TASK-203436
-renee.mcgrath@hsbc.com.UK,Log Out,
-lisa.barrera@hsbc.com.HK,Task Returned to RM,TASK-844272
-kyle.blair@hsbc.com.HK,Stopped Case Assignment,
-rachel.sutton@hsbc.com.SG,Log Out,
-thomas.garcia@hsbc.com.SG,Points Earned,TASK-197500
-ryan.carr@hsbc.com.UK,Points Earned,TASK-530415
-robin.levy@hsbc.com.SG,Stopped Case Assignment,
-thomas.grimes@hsbc.com.UK,Log in,
-jorge.trujillo@hsbc.com.UK,Points Earned,TASK-700062
-ana.smith@hsbc.com.SG,Task Opened,TASK-168488
-jennifer.ross@hsbc.com.UK,Task Opened,TASK-651455
-mallory.barnett@hsbc.com.HK,Task Returned to RM,TASK-630140
-aaron.snyder@hsbc.com.UK,Log Out,
-mikayla.sanchez@hsbc.com.SG,Task Assigned,TASK-540195
-mark.harrell@hsbc.com.SG,Task Completed,TASK-437492
-james.bradley@hsbc.com.UK,Task Opened,TASK-625306
-john.ponce@hsbc.com.HK,Points Earned,TASK-667951
-linda.west@hsbc.com.MY,Task Assigned,TASK-996265
-christopher.flores@hsbc.com.SG,Log in,
-william.cantu@hsbc.com.UK,Task Assigned,TASK-964779
-daniel.arnold@hsbc.com.UK,Log in,
-jasmine.kelley@hsbc.com.UK,Task Cancelled,TASK-913044
-lisa.fernandez@hsbc.com.MY,Task Cancelled,TASK-247703
-tamara.morrison@hsbc.com.UK,Log in,
-briana.wallace@hsbc.com.HK,Task Cancelled,TASK-959941
-caitlyn.cruz@hsbc.com.MY,Task Assigned,TASK-12882
-barbara.roberts@hsbc.com.UK,Continued Case Assignment,TASK-66788
-jaime.lopez@hsbc.com.UK,Task Cancelled,TASK-467320
-chloe.douglas@hsbc.com.MY,Task Assigned,TASK-951005
-thomas.davis@hsbc.com.SG,Task Cancelled,TASK-643843
-katherine.mcdowell@hsbc.com.UK,Points Earned,TASK-42873
-sandra.kirby@hsbc.com.HK,Task Cancelled,TASK-687780
-rachael.leblanc@hsbc.com.SG,Log in,
-amber.myers@hsbc.com.MY,Log Out,
-janet.hill@hsbc.com.UK,Points Earned,TASK-689102
-lisa.atkinson@hsbc.com.HK,Task Cancelled,TASK-689738
-patty.lawrence@hsbc.com.SG,Error,TASK-986048
-stephanie.riley@hsbc.com.SG,Stopped Case Assignment,
-shannon.keller@hsbc.com.MY,Task Opened,TASK-152132
-wendy.stark@hsbc.com.HK,Stopped Case Assignment,
-laura.miller@hsbc.com.MY,Task Opened,TASK-536871
-chloe.tucker@hsbc.com.UK,Task Opened,TASK-99357
-crystal.bruce@hsbc.com.HK,Stopped Case Assignment,
-john.dennis@hsbc.com.SG,Task Completed,TASK-449689
-dave.robinson@hsbc.com.UK,Task Cancelled,TASK-335383
-laura.cook@hsbc.com.HK,Log Out,
-lisa.garcia@hsbc.com.SG,Points Earned,TASK-357857
-dustin.wolfe@hsbc.com.HK,Log Out,
-brandon.berry@hsbc.com.HK,Task Opened,TASK-673684
-renee.ferguson@hsbc.com.MY,Task Completed,TASK-970625
-erin.johnson@hsbc.com.HK,Task Opened,TASK-666694
+megan.chang@hsbc.com.SG,Error,TASK-228748
+robert.green@hsbc.com.UK,Log Out,
+william.sullivan@hsbc.com.UK,Log Out,
+kristen.turner@hsbc.com.HK,Log in,
+thomas.silva@hsbc.com.SG,Stopped Case Assignment,
+rebecca.wagner@hsbc.com.MY,Task Completed,TASK-922895
+juan.campos@hsbc.com.UK,Points Earned,TASK-975583
+christine.king@hsbc.com.SG,Continued Case Assignment,TASK-412602
+renee.mcgrath@hsbc.com.UK,Task Returned to RM,TASK-216368
+lisa.barrera@hsbc.com.MY,Task Returned to RM,TASK-344777
+kyle.blair@hsbc.com.MY,Points Earned,TASK-203436
+rachel.sutton@hsbc.com.SG,Task Completed,TASK-844272
+thomas.garcia@hsbc.com.UK,Task Completed,TASK-197500
+ryan.carr@hsbc.com.MY,Task Assigned,TASK-530415
+robin.levy@hsbc.com.UK,Task Opened,TASK-700062
+thomas.grimes@hsbc.com.MY,Task Completed,TASK-168488
+jorge.trujillo@hsbc.com.MY,Task Opened,TASK-651455
+ana.smith@hsbc.com.HK,Log in,
+jennifer.ross@hsbc.com.MY,Task Returned to RM,TASK-630140
+mallory.barnett@hsbc.com.UK,Task Returned to RM,TASK-540195
+aaron.snyder@hsbc.com.MY,Stopped Case Assignment,
+mikayla.sanchez@hsbc.com.UK,Task Completed,TASK-437492
+mark.harrell@hsbc.com.HK,Stopped Case Assignment,
+james.bradley@hsbc.com.MY,Stopped Case Assignment,
+john.ponce@hsbc.com.HK,Continued Case Assignment,TASK-625306
+linda.west@hsbc.com.MY,Task Assigned,TASK-667951
+christopher.flores@hsbc.com.HK,Log in,
+william.cantu@hsbc.com.HK,Task Assigned,TASK-996265
+daniel.arnold@hsbc.com.UK,Task Cancelled,TASK-964779
+jasmine.kelley@hsbc.com.UK,Task Completed,TASK-913044
+lisa.fernandez@hsbc.com.MY,Task Assigned,TASK-247703
+tamara.morrison@hsbc.com.MY,Task Opened,TASK-959941
+briana.wallace@hsbc.com.HK,Error,TASK-12882
+caitlyn.cruz@hsbc.com.SG,Task Completed,TASK-66788
+barbara.roberts@hsbc.com.MY,Log in,
+jaime.lopez@hsbc.com.UK,Task Opened,TASK-467320
+chloe.douglas@hsbc.com.UK,Task Opened,TASK-951005
+thomas.davis@hsbc.com.SG,Continued Case Assignment,TASK-643843
+katherine.mcdowell@hsbc.com.HK,Points Earned,TASK-42873
+sandra.kirby@hsbc.com.UK,Log in,
+rachael.leblanc@hsbc.com.UK,Log in,
+amber.myers@hsbc.com.UK,Task Returned to RM,TASK-687780
+janet.hill@hsbc.com.SG,Continued Case Assignment,TASK-689102
+lisa.atkinson@hsbc.com.HK,Log Out,
+patty.lawrence@hsbc.com.MY,Task Returned to RM,TASK-689738
+stephanie.riley@hsbc.com.SG,Continued Case Assignment,TASK-986048
+shannon.keller@hsbc.com.SG,Points Earned,TASK-152132
+wendy.stark@hsbc.com.MY,Task Assigned,TASK-536871
+laura.miller@hsbc.com.MY,Stopped Case Assignment,
+chloe.tucker@hsbc.com.SG,Log Out,
+crystal.bruce@hsbc.com.UK,Points Earned,TASK-99357
+john.dennis@hsbc.com.HK,Log Out,
+dave.robinson@hsbc.com.HK,Task Returned to RM,TASK-449689
+laura.cook@hsbc.com.SG,Continued Case Assignment,TASK-335383
+lisa.garcia@hsbc.com.MY,Task Assigned,TASK-357857
+dustin.wolfe@hsbc.com.MY,Task Cancelled,TASK-673684
+brandon.berry@hsbc.com.HK,Task Assigned,TASK-970625
+renee.ferguson@hsbc.com.MY,Stopped Case Assignment,
+erin.johnson@hsbc.com.HK,Task Completed,TASK-666694
 cynthia.obrien@hsbc.com.UK,Task Cancelled,TASK-980949
-barbara.myers@hsbc.com.SG,Error,TASK-876488
-mitchell.hooper@hsbc.com.MY,Continued Case Assignment,TASK-659200
-benjamin.smith@hsbc.com.MY,Task Completed,TASK-208248
-susan.lopez@hsbc.com.SG,Task Opened,TASK-759133
-david.clark@hsbc.com.UK,Task Cancelled,TASK-74448
-lauren.giles@hsbc.com.MY,Task Cancelled,TASK-365600
-andrew.coleman@hsbc.com.MY,Stopped Case Assignment,
-craig.green@hsbc.com.MY,Points Earned,TASK-154886
-jeffrey.lucas@hsbc.com.UK,Task Cancelled,TASK-341478
-michael.white@hsbc.com.SG,Task Assigned,TASK-698937
-william.williams@hsbc.com.UK,Task Completed,TASK-793311
-craig.mcneil@hsbc.com.UK,Log in,
-james.howard@hsbc.com.HK,Task Completed,TASK-297716
-jessica.massey@hsbc.com.UK,Task Assigned,TASK-519656
-samantha.jackson@hsbc.com.MY,Log Out,
+barbara.myers@hsbc.com.SG,Task Completed,TASK-876488
+mitchell.hooper@hsbc.com.SG,Log Out,
+benjamin.smith@hsbc.com.MY,Task Cancelled,TASK-659200
+susan.lopez@hsbc.com.SG,Log in,
+david.clark@hsbc.com.MY,Task Assigned,TASK-208248
+lauren.giles@hsbc.com.UK,Log in,
+andrew.coleman@hsbc.com.UK,Task Cancelled,TASK-759133
+craig.green@hsbc.com.UK,Task Completed,TASK-74448
+jeffrey.lucas@hsbc.com.SG,Task Opened,TASK-365600
+michael.white@hsbc.com.UK,Task Opened,TASK-154886
+william.williams@hsbc.com.MY,Task Completed,TASK-341478
+craig.mcneil@hsbc.com.HK,Task Cancelled,TASK-698937
+james.howard@hsbc.com.MY,Points Earned,TASK-793311
+jessica.massey@hsbc.com.SG,Log Out,
+samantha.jackson@hsbc.com.MY,Task Opened,TASK-297716
 emily.levy@hsbc.com.HK,Stopped Case Assignment,
-brian.lowe@hsbc.com.MY,Points Earned,TASK-514626
-megan.peterson@hsbc.com.MY,Stopped Case Assignment,
-john.carlson@hsbc.com.HK,Task Returned to RM,TASK-648551
-scott.thompson@hsbc.com.HK,Task Opened,TASK-967119
-thomas.ortiz@hsbc.com.HK,Task Opened,TASK-356643
-ashley.romero@hsbc.com.HK,Log in,
-larry.howard@hsbc.com.MY,Log Out,
-mary.king@hsbc.com.MY,Log in,
-ann.smith@hsbc.com.UK,Task Returned to RM,TASK-292669
-judith.rogers@hsbc.com.MY,Log Out,
-brandon.campbell@hsbc.com.SG,Task Assigned,TASK-949328
-john.benton@hsbc.com.SG,Log in,
-michael.roberts@hsbc.com.UK,Continued Case Assignment,TASK-687340
-michael.arroyo@hsbc.com.UK,Task Assigned,TASK-91684
-cynthia.oliver@hsbc.com.UK,Points Earned,TASK-490938
-jennifer.hughes@hsbc.com.HK,Log Out,
-robert.curtis@hsbc.com.SG,Error,TASK-853216
-aaron.lee@hsbc.com.SG,Error,TASK-801304
-matthew.allen@hsbc.com.SG,Task Assigned,TASK-177330
-dana.gray@hsbc.com.SG,Task Opened,TASK-951665
-nancy.carroll@hsbc.com.HK,Task Completed,TASK-122904
-robert.morales@hsbc.com.MY,Task Opened,TASK-547321
-jacqueline.barnes@hsbc.com.MY,Log Out,
-eileen.williams@hsbc.com.UK,Stopped Case Assignment,
-sean.green@hsbc.com.MY,Stopped Case Assignment,
-eric.rose@hsbc.com.HK,Task Completed,TASK-281522
-tony.hoffman@hsbc.com.UK,Continued Case Assignment,TASK-596076
-karla.henson@hsbc.com.SG,Log in,
-troy.collins@hsbc.com.SG,Task Cancelled,TASK-759548
-steven.lamb@hsbc.com.HK,Continued Case Assignment,TASK-434212
-nancy.burnett@hsbc.com.MY,Points Earned,TASK-647542
-jacob.key@hsbc.com.HK,Error,TASK-479543
-cynthia.miller@hsbc.com.SG,Points Earned,TASK-451742
+brian.lowe@hsbc.com.HK,Task Cancelled,TASK-519656
+megan.peterson@hsbc.com.HK,Task Cancelled,TASK-514626
+john.carlson@hsbc.com.SG,Task Cancelled,TASK-648551
+scott.thompson@hsbc.com.MY,Log in,
+thomas.ortiz@hsbc.com.MY,Points Earned,TASK-967119
+ashley.romero@hsbc.com.HK,Task Opened,TASK-356643
+larry.howard@hsbc.com.HK,Log in,
+mary.king@hsbc.com.SG,Log Out,
+ann.smith@hsbc.com.UK,Error,TASK-292669
+judith.rogers@hsbc.com.HK,Task Cancelled,TASK-949328
+brandon.campbell@hsbc.com.SG,Task Opened,TASK-687340
+john.benton@hsbc.com.MY,Continued Case Assignment,TASK-91684
+michael.roberts@hsbc.com.MY,Task Opened,TASK-490938
+michael.arroyo@hsbc.com.MY,Log in,
+cynthia.oliver@hsbc.com.SG,Continued Case Assignment,TASK-853216
+jennifer.hughes@hsbc.com.HK,Points Earned,TASK-801304
+robert.curtis@hsbc.com.MY,Log Out,
+aaron.lee@hsbc.com.UK,Log Out,
+matthew.allen@hsbc.com.HK,Stopped Case Assignment,
+dana.gray@hsbc.com.SG,Error,TASK-177330
+nancy.carroll@hsbc.com.HK,Log Out,
+robert.morales@hsbc.com.SG,Log Out,
+jacqueline.barnes@hsbc.com.SG,Log Out,
+eileen.williams@hsbc.com.MY,Task Assigned,TASK-951665
+sean.green@hsbc.com.MY,Error,TASK-122904
+eric.rose@hsbc.com.UK,Continued Case Assignment,TASK-547321
+tony.hoffman@hsbc.com.MY,Task Cancelled,TASK-281522
+karla.henson@hsbc.com.MY,Continued Case Assignment,TASK-596076
+troy.collins@hsbc.com.MY,Points Earned,TASK-759548
+steven.lamb@hsbc.com.MY,Task Assigned,TASK-434212
+nancy.burnett@hsbc.com.MY,Task Cancelled,TASK-647542
+jacob.key@hsbc.com.MY,Continued Case Assignment,TASK-479543
+cynthia.miller@hsbc.com.UK,Stopped Case Assignment,
 jessica.hatfield@hsbc.com.MY,Log Out,
 richard.gregory@hsbc.com.MY,Stopped Case Assignment,
 leslie.lewis@hsbc.com.HK,Log Out,
-jennifer.smith@hsbc.com.HK,Task Opened,TASK-713533
-mackenzie.rice@hsbc.com.MY,Task Assigned,TASK-176772
-connor.wilson@hsbc.com.UK,Task Assigned,TASK-646986
-debra.russo@hsbc.com.MY,Task Assigned,TASK-978624
-joshua.good@hsbc.com.MY,Stopped Case Assignment,
-craig.nash@hsbc.com.SG,Task Opened,TASK-449518
-randy.miller@hsbc.com.MY,Continued Case Assignment,TASK-813508
-joshua.chavez@hsbc.com.MY,Task Opened,TASK-142543
-laura.callahan@hsbc.com.SG,Stopped Case Assignment,
-dennis.meyer@hsbc.com.MY,Continued Case Assignment,TASK-729602
-debra.reed@hsbc.com.MY,Log in,
-monica.ramirez@hsbc.com.SG,Task Opened,TASK-698788
-andrew.williams@hsbc.com.HK,Task Assigned,TASK-862396
-erin.grant@hsbc.com.UK,Stopped Case Assignment,
-stacey.mays@hsbc.com.MY,Error,TASK-993773
-renee.williams@hsbc.com.MY,Task Cancelled,TASK-821854
-kara.miles@hsbc.com.MY,Error,TASK-835813
-diana.joseph@hsbc.com.SG,Task Opened,TASK-127886
-raven.bowman@hsbc.com.UK,Task Assigned,TASK-622919
-nathan.medina@hsbc.com.HK,Points Earned,TASK-820920
-jared.matthews@hsbc.com.UK,Task Returned to RM,TASK-126850
-alan.hernandez@hsbc.com.HK,Log Out,
-mathew.clarke@hsbc.com.SG,Task Completed,TASK-889467
-jennifer.morgan@hsbc.com.HK,Points Earned,TASK-205061
-christine.williams@hsbc.com.MY,Task Cancelled,TASK-793030
-frank.holden@hsbc.com.UK,Task Cancelled,TASK-515704
-keith.foster@hsbc.com.SG,Points Earned,TASK-318497
-amy.carter@hsbc.com.SG,Task Assigned,TASK-729790
-timothy.allen@hsbc.com.SG,Error,TASK-774376
-brandon.white@hsbc.com.HK,Task Returned to RM,TASK-114865
-alexandra.jones@hsbc.com.HK,Task Opened,TASK-727829
-richard.murphy@hsbc.com.UK,Task Cancelled,TASK-811474
-robert.garcia@hsbc.com.MY,Task Assigned,TASK-456451
-regina.wells@hsbc.com.UK,Error,TASK-284965
-mary.cherry@hsbc.com.UK,Task Completed,TASK-299537
-matthew.mendoza@hsbc.com.HK,Error,TASK-833264
-holly.simmons@hsbc.com.SG,Task Cancelled,TASK-126013
-kevin.navarro@hsbc.com.SG,Log in,
-patricia.gillespie@hsbc.com.SG,Stopped Case Assignment,
-courtney.bennett@hsbc.com.UK,Task Opened,TASK-676143
-terri.fowler@hsbc.com.SG,Task Completed,TASK-382974
-cameron.miller@hsbc.com.SG,Points Earned,TASK-543807
-kara.brown@hsbc.com.MY,Points Earned,TASK-875300
-alan.long@hsbc.com.UK,Task Completed,TASK-572054
-april.west@hsbc.com.SG,Log in,
-tracy.richards@hsbc.com.HK,Task Cancelled,TASK-850764
-erin.henderson@hsbc.com.UK,Log in,
-micheal.hinton@hsbc.com.MY,Task Assigned,TASK-88360
-jose.waters@hsbc.com.HK,Error,TASK-18469
-ryan.howard@hsbc.com.HK,Log in,
-caleb.boyer@hsbc.com.HK,Log in,
-jacqueline.leach@hsbc.com.SG,Task Completed,TASK-52884
-shannon.rhodes@hsbc.com.HK,Log in,
-david.sanders@hsbc.com.SG,Log Out,
-jared.williams@hsbc.com.SG,Log in,
-stacy.lewis@hsbc.com.UK,Stopped Case Assignment,
-dustin.gonzalez@hsbc.com.UK,Points Earned,TASK-647353
-nicholas.payne@hsbc.com.MY,Task Opened,TASK-25544
-edward.hinton@hsbc.com.HK,Log Out,
-tonya.hernandez@hsbc.com.HK,Task Cancelled,TASK-823215
-richard.frazier@hsbc.com.UK,Points Earned,TASK-155222
-natalie.simpson@hsbc.com.MY,Task Completed,TASK-941507
-sally.morris@hsbc.com.MY,Task Opened,TASK-138834
-vernon.jimenez@hsbc.com.HK,Points Earned,TASK-437925
-elizabeth.harris@hsbc.com.SG,Log in,
-chelsea.robinson@hsbc.com.HK,Task Assigned,TASK-413767
-matthew.estes@hsbc.com.HK,Stopped Case Assignment,
-rachel.meyers@hsbc.com.SG,Task Assigned,TASK-831894
-austin.hernandez@hsbc.com.HK,Task Assigned,TASK-514714
-jonathan.mueller@hsbc.com.SG,Task Returned to RM,TASK-938958
-megan.aguilar@hsbc.com.UK,Task Opened,TASK-38361
-jennifer.roman@hsbc.com.HK,Stopped Case Assignment,
-carl.miller@hsbc.com.UK,Task Cancelled,TASK-338507
-misty.williams@hsbc.com.UK,Stopped Case Assignment,
-jeffrey.williams@hsbc.com.SG,Error,TASK-672614
-alexis.anthony@hsbc.com.MY,Task Completed,TASK-869620
-mark.martin@hsbc.com.MY,Continued Case Assignment,TASK-157262
-eduardo.douglas@hsbc.com.HK,Task Completed,TASK-99210
-tanya.wagner@hsbc.com.UK,Log in,
-rachel.shaw@hsbc.com.SG,Task Opened,TASK-747047
-audrey.gregory@hsbc.com.SG,Task Assigned,TASK-421084
-linda.chang@hsbc.com.UK,Task Opened,TASK-685180
-vicki.burgess@hsbc.com.SG,Points Earned,TASK-617341
-rebecca.harris@hsbc.com.HK,Task Returned to RM,TASK-795912
-amanda.george@hsbc.com.MY,Log Out,
-margaret.olson@hsbc.com.HK,Task Returned to RM,TASK-246049
-kylie.price@hsbc.com.UK,Continued Case Assignment,TASK-61072
-brenda.york@hsbc.com.SG,Task Assigned,TASK-229402
-lauren.sandoval@hsbc.com.HK,Task Returned to RM,TASK-442454
-aaron.white@hsbc.com.MY,Log in,
-william.scott@hsbc.com.MY,Task Cancelled,TASK-969397
-cameron.heath@hsbc.com.SG,Task Opened,TASK-974281
-sherri.turner@hsbc.com.SG,Log Out,
-ricky.patrick@hsbc.com.HK,Error,TASK-956338
-bryan.davidson@hsbc.com.UK,Task Assigned,TASK-38951
-david.mitchell@hsbc.com.UK,Task Opened,TASK-59459
-maria.brown@hsbc.com.HK,Log in,
-barry.butler@hsbc.com.UK,Task Completed,TASK-638183
-travis.boyer@hsbc.com.HK,Continued Case Assignment,TASK-830003
-jennifer.nunez@hsbc.com.SG,Task Completed,TASK-428794
-edward.hatfield@hsbc.com.SG,Error,TASK-148922
-robert.carr@hsbc.com.HK,Log in,
-paul.williams@hsbc.com.HK,Stopped Case Assignment,
-thomas.hernandez@hsbc.com.MY,Task Assigned,TASK-597484
-antonio.williamson@hsbc.com.HK,Log in,
-crystal.garcia@hsbc.com.MY,Task Returned to RM,TASK-776658
-andrea.reed@hsbc.com.HK,Log in,
-patrick.frank@hsbc.com.UK,Task Opened,TASK-747515
-tracy.ibarra@hsbc.com.HK,Task Completed,TASK-321637
-chelsea.mcdonald@hsbc.com.HK,Log Out,
-cynthia.morgan@hsbc.com.SG,Points Earned,TASK-436451
-david.fleming@hsbc.com.SG,Error,TASK-434380
-christy.kramer@hsbc.com.UK,Continued Case Assignment,TASK-945384
-david.buck@hsbc.com.MY,Stopped Case Assignment,
-lauren.stark@hsbc.com.HK,Log in,
-monique.becker@hsbc.com.SG,Points Earned,TASK-883826
-lisa.stone@hsbc.com.UK,Log in,
-kristen.lopez@hsbc.com.UK,Continued Case Assignment,TASK-582884
-kimberly.wallace@hsbc.com.MY,Continued Case Assignment,TASK-67439
-katherine.gibson@hsbc.com.HK,Task Opened,TASK-788774
-kristine.jones@hsbc.com.UK,Task Completed,TASK-887479
-bradley.villa@hsbc.com.MY,Task Returned to RM,TASK-477337
-todd.santana@hsbc.com.HK,Task Opened,TASK-931040
-shirley.estrada@hsbc.com.SG,Log Out,
-ashley.robinson@hsbc.com.MY,Log in,
-clayton.weiss@hsbc.com.MY,Task Cancelled,TASK-578747
-pamela.chan@hsbc.com.UK,Stopped Case Assignment,
-holly.fisher@hsbc.com.MY,Task Cancelled,TASK-162468
-kevin.wilson@hsbc.com.HK,Task Returned to RM,TASK-597797
-ronald.knight@hsbc.com.MY,Task Cancelled,TASK-997160
-sandra.walls@hsbc.com.MY,Task Cancelled,TASK-955738
-robert.garcia@hsbc.com.MY,Error,TASK-143288
-kim.navarro@hsbc.com.HK,Task Assigned,TASK-685536
-anthony.griffin@hsbc.com.SG,Task Assigned,TASK-227384
-gina.johnson@hsbc.com.SG,Log in,
-samantha.rivers@hsbc.com.MY,Task Assigned,TASK-627142
-jennifer.miller@hsbc.com.UK,Continued Case Assignment,TASK-186532
-chad.howard@hsbc.com.MY,Log Out,
-anthony.bailey@hsbc.com.HK,Log in,
-alejandro.mccann@hsbc.com.UK,Task Returned to RM,TASK-881139
-lori.jones@hsbc.com.MY,Error,TASK-103619
-patricia.clark@hsbc.com.UK,Task Assigned,TASK-614557
-jamie.nunez@hsbc.com.UK,Task Assigned,TASK-502414
-shawna.martinez@hsbc.com.SG,Log Out,
-adrian.wood@hsbc.com.SG,Task Returned to RM,TASK-311788
-angel.jacobs@hsbc.com.HK,Log in,
-michele.lopez@hsbc.com.MY,Task Returned to RM,TASK-290883
+jennifer.smith@hsbc.com.SG,Error,TASK-451742
+mackenzie.rice@hsbc.com.HK,Task Cancelled,TASK-713533
+connor.wilson@hsbc.com.MY,Task Returned to RM,TASK-176772
+debra.russo@hsbc.com.UK,Task Completed,TASK-646986
+joshua.good@hsbc.com.HK,Continued Case Assignment,TASK-978624
+craig.nash@hsbc.com.HK,Task Completed,TASK-449518
+randy.miller@hsbc.com.SG,Log in,
+joshua.chavez@hsbc.com.UK,Continued Case Assignment,TASK-813508
+laura.callahan@hsbc.com.MY,Task Completed,TASK-142543
+dennis.meyer@hsbc.com.MY,Task Returned to RM,TASK-729602
+debra.reed@hsbc.com.HK,Log Out,
+monica.ramirez@hsbc.com.MY,Stopped Case Assignment,
+andrew.williams@hsbc.com.SG,Task Assigned,TASK-698788
+erin.grant@hsbc.com.HK,Task Completed,TASK-862396
+stacey.mays@hsbc.com.HK,Task Assigned,TASK-993773
+renee.williams@hsbc.com.SG,Task Cancelled,TASK-821854
+kara.miles@hsbc.com.UK,Task Opened,TASK-835813
+diana.joseph@hsbc.com.MY,Continued Case Assignment,TASK-127886
+raven.bowman@hsbc.com.SG,Points Earned,TASK-622919
+nathan.medina@hsbc.com.SG,Log in,
+jared.matthews@hsbc.com.UK,Points Earned,TASK-820920
+alan.hernandez@hsbc.com.SG,Task Returned to RM,TASK-126850
+mathew.clarke@hsbc.com.UK,Task Cancelled,TASK-889467
+jennifer.morgan@hsbc.com.UK,Task Opened,TASK-205061
+christine.williams@hsbc.com.HK,Task Opened,TASK-793030
+frank.holden@hsbc.com.UK,Error,TASK-515704
+keith.foster@hsbc.com.SG,Log Out,
+amy.carter@hsbc.com.SG,Task Cancelled,TASK-318497
+timothy.allen@hsbc.com.SG,Stopped Case Assignment,
+brandon.white@hsbc.com.SG,Points Earned,TASK-729790
+alexandra.jones@hsbc.com.HK,Log Out,
+richard.murphy@hsbc.com.SG,Stopped Case Assignment,
+robert.garcia@hsbc.com.MY,Log Out,
+regina.wells@hsbc.com.MY,Stopped Case Assignment,
+mary.cherry@hsbc.com.MY,Task Cancelled,TASK-774376
+matthew.mendoza@hsbc.com.UK,Log Out,
+holly.simmons@hsbc.com.HK,Task Assigned,TASK-114865
+kevin.navarro@hsbc.com.SG,Error,TASK-727829
+patricia.gillespie@hsbc.com.UK,Task Opened,TASK-811474
+courtney.bennett@hsbc.com.UK,Stopped Case Assignment,
+terri.fowler@hsbc.com.HK,Points Earned,TASK-456451
+cameron.miller@hsbc.com.SG,Task Assigned,TASK-284965
+kara.brown@hsbc.com.MY,Task Completed,TASK-299537
+alan.long@hsbc.com.SG,Task Completed,TASK-833264
+april.west@hsbc.com.HK,Points Earned,TASK-126013
+tracy.richards@hsbc.com.UK,Task Completed,TASK-676143
+erin.henderson@hsbc.com.MY,Task Completed,TASK-382974
+micheal.hinton@hsbc.com.HK,Task Returned to RM,TASK-543807
+jose.waters@hsbc.com.HK,Task Cancelled,TASK-875300
+ryan.howard@hsbc.com.SG,Error,TASK-572054
+caleb.boyer@hsbc.com.UK,Points Earned,TASK-850764
+jacqueline.leach@hsbc.com.MY,Task Completed,TASK-88360
+shannon.rhodes@hsbc.com.MY,Task Returned to RM,TASK-18469
+david.sanders@hsbc.com.SG,Error,TASK-52884
+jared.williams@hsbc.com.SG,Stopped Case Assignment,
+stacy.lewis@hsbc.com.SG,Points Earned,TASK-647353
+dustin.gonzalez@hsbc.com.UK,Continued Case Assignment,TASK-25544
+nicholas.payne@hsbc.com.HK,Task Opened,TASK-823215
+edward.hinton@hsbc.com.MY,Task Assigned,TASK-155222
+tonya.hernandez@hsbc.com.HK,Task Assigned,TASK-941507
+richard.frazier@hsbc.com.SG,Log Out,
+natalie.simpson@hsbc.com.HK,Stopped Case Assignment,
+sally.morris@hsbc.com.HK,Log in,
+vernon.jimenez@hsbc.com.UK,Stopped Case Assignment,
+elizabeth.harris@hsbc.com.SG,Task Opened,TASK-138834
+chelsea.robinson@hsbc.com.UK,Error,TASK-437925
+matthew.estes@hsbc.com.UK,Task Opened,TASK-413767
+rachel.meyers@hsbc.com.MY,Task Completed,TASK-831894
+austin.hernandez@hsbc.com.SG,Task Opened,TASK-514714
+jonathan.mueller@hsbc.com.MY,Stopped Case Assignment,
+megan.aguilar@hsbc.com.SG,Stopped Case Assignment,
+jennifer.roman@hsbc.com.UK,Log in,
+carl.miller@hsbc.com.HK,Task Cancelled,TASK-938958
+misty.williams@hsbc.com.UK,Log Out,
+jeffrey.williams@hsbc.com.MY,Error,TASK-38361
+alexis.anthony@hsbc.com.MY,Task Assigned,TASK-338507
+mark.martin@hsbc.com.MY,Task Returned to RM,TASK-672614
+eduardo.douglas@hsbc.com.MY,Task Completed,TASK-869620
+tanya.wagner@hsbc.com.MY,Task Completed,TASK-157262
+rachel.shaw@hsbc.com.UK,Points Earned,TASK-99210
+audrey.gregory@hsbc.com.MY,Points Earned,TASK-747047
+linda.chang@hsbc.com.SG,Task Opened,TASK-421084
+vicki.burgess@hsbc.com.UK,Stopped Case Assignment,
+rebecca.harris@hsbc.com.HK,Log Out,
+amanda.george@hsbc.com.HK,Points Earned,TASK-685180
+margaret.olson@hsbc.com.SG,Task Returned to RM,TASK-617341
+kylie.price@hsbc.com.MY,Task Assigned,TASK-795912
+brenda.york@hsbc.com.MY,Task Completed,TASK-246049
+lauren.sandoval@hsbc.com.HK,Task Cancelled,TASK-61072
+aaron.white@hsbc.com.MY,Log Out,
+william.scott@hsbc.com.HK,Task Assigned,TASK-229402
+cameron.heath@hsbc.com.SG,Task Assigned,TASK-442454
+sherri.turner@hsbc.com.HK,Log Out,
+ricky.patrick@hsbc.com.HK,Log in,
+bryan.davidson@hsbc.com.SG,Task Cancelled,TASK-969397
+david.mitchell@hsbc.com.UK,Task Returned to RM,TASK-974281
+maria.brown@hsbc.com.UK,Task Returned to RM,TASK-956338
+barry.butler@hsbc.com.HK,Task Cancelled,TASK-38951
+travis.boyer@hsbc.com.UK,Stopped Case Assignment,
+jennifer.nunez@hsbc.com.MY,Points Earned,TASK-59459
+edward.hatfield@hsbc.com.HK,Continued Case Assignment,TASK-638183
+robert.carr@hsbc.com.HK,Error,TASK-830003
+paul.williams@hsbc.com.MY,Stopped Case Assignment,
+thomas.hernandez@hsbc.com.UK,Log Out,
+antonio.williamson@hsbc.com.HK,Continued Case Assignment,TASK-428794
+crystal.garcia@hsbc.com.MY,Log Out,
+andrea.reed@hsbc.com.HK,Stopped Case Assignment,
+patrick.frank@hsbc.com.UK,Error,TASK-148922
+tracy.ibarra@hsbc.com.HK,Error,TASK-597484
+chelsea.mcdonald@hsbc.com.UK,Task Opened,TASK-776658
+cynthia.morgan@hsbc.com.SG,Task Opened,TASK-747515
+david.fleming@hsbc.com.MY,Error,TASK-321637
+christy.kramer@hsbc.com.MY,Stopped Case Assignment,
+david.buck@hsbc.com.HK,Task Completed,TASK-436451
+lauren.stark@hsbc.com.MY,Task Returned to RM,TASK-434380
+monique.becker@hsbc.com.HK,Task Returned to RM,TASK-945384
+lisa.stone@hsbc.com.SG,Task Opened,TASK-883826
+kristen.lopez@hsbc.com.HK,Task Completed,TASK-582884
+kimberly.wallace@hsbc.com.SG,Continued Case Assignment,TASK-67439
+katherine.gibson@hsbc.com.HK,Points Earned,TASK-788774
+kristine.jones@hsbc.com.SG,Log in,
+bradley.villa@hsbc.com.HK,Points Earned,TASK-887479
+todd.santana@hsbc.com.SG,Task Assigned,TASK-477337
+shirley.estrada@hsbc.com.UK,Task Returned to RM,TASK-931040
+ashley.robinson@hsbc.com.HK,Stopped Case Assignment,
+clayton.weiss@hsbc.com.HK,Continued Case Assignment,TASK-578747
+pamela.chan@hsbc.com.UK,Error,TASK-162468
+holly.fisher@hsbc.com.MY,Task Opened,TASK-597797
+kevin.wilson@hsbc.com.SG,Task Returned to RM,TASK-997160
+ronald.knight@hsbc.com.MY,Log Out,
+sandra.walls@hsbc.com.SG,Error,TASK-955738
+robert.garcia@hsbc.com.HK,Continued Case Assignment,TASK-143288
+kim.navarro@hsbc.com.UK,Task Opened,TASK-685536
+anthony.griffin@hsbc.com.HK,Continued Case Assignment,TASK-227384
+gina.johnson@hsbc.com.UK,Log in,
+samantha.rivers@hsbc.com.MY,Log Out,
+jennifer.miller@hsbc.com.UK,Stopped Case Assignment,
+chad.howard@hsbc.com.SG,Task Cancelled,TASK-627142
+anthony.bailey@hsbc.com.UK,Log Out,
+alejandro.mccann@hsbc.com.SG,Task Cancelled,TASK-186532
+lori.jones@hsbc.com.SG,Error,TASK-881139
+patricia.clark@hsbc.com.MY,Stopped Case Assignment,
+jamie.nunez@hsbc.com.SG,Error,TASK-103619
+shawna.martinez@hsbc.com.MY,Task Returned to RM,TASK-614557
+adrian.wood@hsbc.com.MY,Error,TASK-502414
+angel.jacobs@hsbc.com.MY,Task Completed,TASK-311788
+michele.lopez@hsbc.com.HK,Task Assigned,TASK-290883
 daniel.cooper@hsbc.com.MY,Log in,
-susan.anderson@hsbc.com.UK,Error,TASK-274991
-tammy.cox@hsbc.com.MY,Task Returned to RM,TASK-231914
-thomas.carter@hsbc.com.SG,Error,TASK-432721
-sharon.rubio@hsbc.com.MY,Continued Case Assignment,TASK-727902
-cynthia.white@hsbc.com.MY,Points Earned,TASK-19430
-victoria.garcia@hsbc.com.UK,Points Earned,TASK-916927
-beverly.moore@hsbc.com.SG,Error,TASK-677270
-rachael.bautista@hsbc.com.SG,Task Completed,TASK-914141
-linda.stewart@hsbc.com.MY,Log Out,
-john.fischer@hsbc.com.HK,Task Opened,TASK-64054
-kelly.barnes@hsbc.com.UK,Error,TASK-558897
-brandon.anderson@hsbc.com.MY,Stopped Case Assignment,
-andrew.miller@hsbc.com.SG,Log in,
-charles.fisher@hsbc.com.MY,Task Opened,TASK-821442
-andrea.yang@hsbc.com.MY,Error,TASK-825969
-douglas.henderson@hsbc.com.HK,Stopped Case Assignment,
-dana.miller@hsbc.com.MY,Continued Case Assignment,TASK-83571
-sean.wood@hsbc.com.MY,Task Cancelled,TASK-928766
-stacy.brown@hsbc.com.MY,Task Cancelled,TASK-20752
-ricky.butler@hsbc.com.SG,Points Earned,TASK-680542
-jessica.flores@hsbc.com.MY,Stopped Case Assignment,
-james.carter@hsbc.com.SG,Task Opened,TASK-308484
-thomas.clements@hsbc.com.MY,Error,TASK-172011
-laura.hill@hsbc.com.MY,Task Assigned,TASK-820226
-angela.watts@hsbc.com.UK,Continued Case Assignment,TASK-157691
-laura.griffin@hsbc.com.HK,Task Opened,TASK-883083
-raymond.saunders@hsbc.com.SG,Task Assigned,TASK-808707
-ryan.wright@hsbc.com.MY,Error,TASK-541945
-shawn.giles@hsbc.com.MY,Continued Case Assignment,TASK-151120
-douglas.ford@hsbc.com.SG,Log in,
-dana.webb@hsbc.com.UK,Log Out,
-james.smith@hsbc.com.HK,Stopped Case Assignment,
-holly.montgomery@hsbc.com.MY,Error,TASK-993876
-alan.evans@hsbc.com.SG,Stopped Case Assignment,
-kayla.fuller@hsbc.com.SG,Log in,
-amy.moore@hsbc.com.MY,Task Opened,TASK-130079
-jasmine.ruiz@hsbc.com.HK,Stopped Case Assignment,
-erika.wolf@hsbc.com.MY,Task Assigned,TASK-358357
-jesse.gill@hsbc.com.HK,Points Earned,TASK-16736
-joshua.riggs@hsbc.com.MY,Task Cancelled,TASK-786308
-david.stephenson@hsbc.com.SG,Continued Case Assignment,TASK-870394
-billy.scott@hsbc.com.UK,Task Returned to RM,TASK-349025
-alicia.perkins@hsbc.com.SG,Continued Case Assignment,TASK-888244
-randy.garcia@hsbc.com.SG,Log Out,
-johnny.campbell@hsbc.com.UK,Error,TASK-162421
-karina.stout@hsbc.com.HK,Stopped Case Assignment,
-caitlin.johnson@hsbc.com.SG,Task Cancelled,TASK-356307
-laura.torres@hsbc.com.UK,Points Earned,TASK-616455
-matthew.moreno@hsbc.com.UK,Task Returned to RM,TASK-797544
-john.mora@hsbc.com.SG,Task Opened,TASK-75613
-frank.perry@hsbc.com.HK,Task Opened,TASK-100320
-keith.meyer@hsbc.com.MY,Task Returned to RM,TASK-401136
-audrey.burton@hsbc.com.SG,Error,TASK-227166
-amanda.jenkins@hsbc.com.SG,Continued Case Assignment,TASK-276200
-cynthia.powell@hsbc.com.SG,Continued Case Assignment,TASK-482974
-kimberly.french@hsbc.com.HK,Error,TASK-357930
-kelly.watson@hsbc.com.MY,Task Completed,TASK-725438
-courtney.moore@hsbc.com.UK,Task Cancelled,TASK-518750
-heidi.james@hsbc.com.MY,Task Opened,TASK-503377
-brittany.taylor@hsbc.com.UK,Task Cancelled,TASK-571724
-elizabeth.gomez@hsbc.com.SG,Continued Case Assignment,TASK-562018
-thomas.perry@hsbc.com.SG,Stopped Case Assignment,
-thomas.neal@hsbc.com.UK,Continued Case Assignment,TASK-98455
-lucas.pearson@hsbc.com.UK,Task Returned to RM,TASK-94799
-brian.evans@hsbc.com.SG,Continued Case Assignment,TASK-340855
-julie.williams@hsbc.com.HK,Log Out,
-christine.johnson@hsbc.com.HK,Task Cancelled,TASK-470069
-thomas.oneal@hsbc.com.SG,Error,TASK-412335
-alejandro.rose@hsbc.com.MY,Task Opened,TASK-824267
-carl.camacho@hsbc.com.MY,Task Opened,TASK-432895
-gina.harmon@hsbc.com.UK,Task Completed,TASK-578547
-elizabeth.smith@hsbc.com.MY,Error,TASK-513353
-blake.oliver@hsbc.com.SG,Task Assigned,TASK-588061
-yvonne.marks@hsbc.com.HK,Task Completed,TASK-456559
-holly.acosta@hsbc.com.HK,Task Opened,TASK-553845
-jeremy.walton@hsbc.com.UK,Points Earned,TASK-87623
-keith.garcia@hsbc.com.UK,Task Completed,TASK-960482
-steven.rivera@hsbc.com.HK,Log Out,
-gary.fisher@hsbc.com.HK,Error,TASK-239978
-phyllis.graham@hsbc.com.UK,Stopped Case Assignment,
-seth.fletcher@hsbc.com.UK,Log in,
-alexandria.anderson@hsbc.com.SG,Error,TASK-160704
-renee.wallace@hsbc.com.SG,Task Returned to RM,TASK-685582
-kristina.price@hsbc.com.HK,Log in,
-lindsay.price@hsbc.com.UK,Continued Case Assignment,TASK-429022
-jeffrey.gonzalez@hsbc.com.MY,Log in,
-shelby.willis@hsbc.com.HK,Task Assigned,TASK-879022
-brandon.price@hsbc.com.MY,Error,TASK-926965
-jim.miller@hsbc.com.HK,Task Returned to RM,TASK-546284
-jacob.brown@hsbc.com.MY,Task Cancelled,TASK-338614
-danielle.thompson@hsbc.com.SG,Task Assigned,TASK-165388
-cheryl.salazar@hsbc.com.MY,Task Completed,TASK-932017
-janet.hunt@hsbc.com.HK,Task Cancelled,TASK-83890
-justin.rich@hsbc.com.HK,Log in,
-michael.ellis@hsbc.com.MY,Task Returned to RM,TASK-160128
-crystal.black@hsbc.com.MY,Stopped Case Assignment,
-stephanie.blevins@hsbc.com.HK,Task Completed,TASK-173466
-sarah.villa@hsbc.com.MY,Stopped Case Assignment,
-bianca.henry@hsbc.com.HK,Task Returned to RM,TASK-46119
-janet.lewis@hsbc.com.MY,Continued Case Assignment,TASK-412702
-joseph.williams@hsbc.com.MY,Log Out,
-francisco.smith@hsbc.com.MY,Continued Case Assignment,TASK-685845
-diamond.taylor@hsbc.com.HK,Points Earned,TASK-602661
-kristin.becker@hsbc.com.UK,Task Opened,TASK-131508
-tara.sanders@hsbc.com.MY,Stopped Case Assignment,
-sandra.chavez@hsbc.com.MY,Stopped Case Assignment,
-matthew.garcia@hsbc.com.HK,Stopped Case Assignment,
-nicole.norton@hsbc.com.HK,Log in,
-marcus.bryant@hsbc.com.MY,Continued Case Assignment,TASK-706524
-mark.johnson@hsbc.com.HK,Task Completed,TASK-81422
-bradley.wood@hsbc.com.UK,Error,TASK-559830
-jason.warren@hsbc.com.MY,Task Returned to RM,TASK-290611
-jacob.harris@hsbc.com.UK,Log in,
-emily.fitzgerald@hsbc.com.HK,Points Earned,TASK-602750
-larry.heath@hsbc.com.UK,Continued Case Assignment,TASK-327412
-jonathan.cooper@hsbc.com.MY,Points Earned,TASK-379343
-jennifer.williams@hsbc.com.HK,Points Earned,TASK-993893
-sarah.jones@hsbc.com.MY,Task Completed,TASK-707928
-steven.hardy@hsbc.com.SG,Continued Case Assignment,TASK-921587
-brandon.lamb@hsbc.com.HK,Stopped Case Assignment,
-tiffany.stevens@hsbc.com.MY,Error,TASK-772168
-david.miller@hsbc.com.MY,Task Cancelled,TASK-510130
-corey.cannon@hsbc.com.HK,Task Cancelled,TASK-431659
-robert.calhoun@hsbc.com.MY,Task Completed,TASK-630206
-scott.jones@hsbc.com.MY,Log Out,
-ronald.fischer@hsbc.com.MY,Task Assigned,TASK-864497
-maria.williams@hsbc.com.SG,Task Completed,TASK-344682
-henry.burns@hsbc.com.MY,Points Earned,TASK-790069
-david.pitts@hsbc.com.HK,Task Returned to RM,TASK-712204
-sarah.flores@hsbc.com.SG,Task Assigned,TASK-958692
-ryan.hawkins@hsbc.com.HK,Error,TASK-662569
-justin.weaver@hsbc.com.HK,Continued Case Assignment,TASK-499421
-james.phillips@hsbc.com.SG,Log in,
-scott.jacobs@hsbc.com.UK,Error,TASK-547301
-amanda.green@hsbc.com.MY,Task Assigned,TASK-371991
-jesse.wilson@hsbc.com.HK,Stopped Case Assignment,
-kristen.garcia@hsbc.com.SG,Error,TASK-253579
-jessica.wright@hsbc.com.HK,Log Out,
-justin.fitzgerald@hsbc.com.UK,Continued Case Assignment,TASK-824957
-donna.harmon@hsbc.com.MY,Task Assigned,TASK-536570
-zachary.trevino@hsbc.com.UK,Stopped Case Assignment,
-david.brewer@hsbc.com.SG,Log Out,
-david.mclaughlin@hsbc.com.SG,Task Returned to RM,TASK-49419
-michael.leonard@hsbc.com.MY,Task Assigned,TASK-770430
-jade.guerrero@hsbc.com.SG,Task Returned to RM,TASK-412523
-jeffrey.decker@hsbc.com.MY,Stopped Case Assignment,
-john.holmes@hsbc.com.HK,Stopped Case Assignment,
-emily.hall@hsbc.com.MY,Log Out,
-courtney.mitchell@hsbc.com.MY,Task Assigned,TASK-829621
-george.pacheco@hsbc.com.UK,Task Assigned,TASK-393763
-angela.murphy@hsbc.com.HK,Task Opened,TASK-368889
-brenda.johnson@hsbc.com.HK,Task Cancelled,TASK-840995
-david.foster@hsbc.com.HK,Log in,
-theresa.dixon@hsbc.com.MY,Log in,
-charles.hubbard@hsbc.com.HK,Task Cancelled,TASK-547208
-kimberly.hampton@hsbc.com.HK,Log Out,
-ashley.dominguez@hsbc.com.SG,Log Out,
-jason.oconnor@hsbc.com.UK,Error,TASK-17229
-lisa.wolf@hsbc.com.MY,Task Assigned,TASK-271902
-michael.garza@hsbc.com.HK,Task Assigned,TASK-612264
-cristina.lester@hsbc.com.SG,Continued Case Assignment,TASK-90684
-daniel.flowers@hsbc.com.SG,Task Assigned,TASK-508381
-alicia.howard@hsbc.com.UK,Task Completed,TASK-126341
-stanley.smith@hsbc.com.UK,Task Completed,TASK-395865
-jeffrey.delgado@hsbc.com.MY,Continued Case Assignment,TASK-466350
-donna.simpson@hsbc.com.HK,Task Opened,TASK-813822
-stephanie.castillo@hsbc.com.HK,Error,TASK-659070
-lee.abbott@hsbc.com.HK,Task Assigned,TASK-265741
-jonathon.munoz@hsbc.com.HK,Task Cancelled,TASK-582258
-jade.underwood@hsbc.com.MY,Task Completed,TASK-35469
-kristen.cruz@hsbc.com.HK,Continued Case Assignment,TASK-553877
-brian.johnson@hsbc.com.HK,Points Earned,TASK-542475
-jessica.nixon@hsbc.com.SG,Error,TASK-127074
-matthew.alexander@hsbc.com.UK,Task Opened,TASK-52214
-jessica.barrett@hsbc.com.UK,Continued Case Assignment,TASK-607588
-jordan.powers@hsbc.com.SG,Task Opened,TASK-386120
-kevin.kelly@hsbc.com.SG,Stopped Case Assignment,
-amber.oconnor@hsbc.com.HK,Error,TASK-51679
-edward.johnson@hsbc.com.SG,Task Assigned,TASK-998267
-courtney.johnson@hsbc.com.SG,Log Out,
-brady.perez@hsbc.com.UK,Stopped Case Assignment,
-desiree.jones@hsbc.com.SG,Task Opened,TASK-393523
-bryan.stanton@hsbc.com.MY,Log in,
-roberto.stafford@hsbc.com.MY,Task Opened,TASK-198552
-jay.graham@hsbc.com.SG,Stopped Case Assignment,
-michael.thompson@hsbc.com.HK,Stopped Case Assignment,
-mark.hatfield@hsbc.com.SG,Task Returned to RM,TASK-367470
-julie.reyes@hsbc.com.HK,Points Earned,TASK-292341
-robert.baker@hsbc.com.MY,Task Cancelled,TASK-519655
-amanda.fitzgerald@hsbc.com.MY,Task Completed,TASK-516610
-gloria.ford@hsbc.com.MY,Task Assigned,TASK-802695
-bobby.dorsey@hsbc.com.UK,Stopped Case Assignment,
-robert.myers@hsbc.com.UK,Error,TASK-968615
-aaron.taylor@hsbc.com.SG,Points Earned,TASK-935103
-misty.palmer@hsbc.com.SG,Task Assigned,TASK-449446
-jessica.hernandez@hsbc.com.MY,Log Out,
-mark.larsen@hsbc.com.HK,Task Returned to RM,TASK-11366
-lori.wright@hsbc.com.UK,Points Earned,TASK-860568
-andrew.drake@hsbc.com.HK,Stopped Case Assignment,
-gary.french@hsbc.com.HK,Points Earned,TASK-689367
-gabriela.jackson@hsbc.com.HK,Task Cancelled,TASK-816982
-christian.pennington@hsbc.com.MY,Continued Case Assignment,TASK-257629
-carla.oliver@hsbc.com.UK,Log Out,
-stephen.hernandez@hsbc.com.SG,Error,TASK-696136
-carolyn.king@hsbc.com.SG,Log Out,
-linda.oconnor@hsbc.com.HK,Error,TASK-696273
-anthony.randolph@hsbc.com.HK,Task Returned to RM,TASK-510606
-barry.davis@hsbc.com.UK,Task Opened,TASK-788931
-kelly.hernandez@hsbc.com.HK,Task Cancelled,TASK-770499
-joel.kelly@hsbc.com.UK,Task Returned to RM,TASK-940233
-jill.sullivan@hsbc.com.UK,Continued Case Assignment,TASK-370982
-joseph.vasquez@hsbc.com.UK,Points Earned,TASK-726615
-philip.collins@hsbc.com.HK,Log in,
-rachel.pierce@hsbc.com.HK,Stopped Case Assignment,
-tiffany.mejia@hsbc.com.SG,Stopped Case Assignment,
-ashley.baker@hsbc.com.MY,Log Out,
-gloria.bryant@hsbc.com.UK,Task Opened,TASK-851795
-jennifer.powell@hsbc.com.HK,Task Opened,TASK-898363
-tyler.smith@hsbc.com.HK,Points Earned,TASK-876060
-jody.johnson@hsbc.com.MY,Task Completed,TASK-832586
-erin.perkins@hsbc.com.MY,Log in,
-kimberly.roberts@hsbc.com.SG,Error,TASK-770890
-gina.clark@hsbc.com.UK,Task Assigned,TASK-178523
-allison.peterson@hsbc.com.MY,Continued Case Assignment,TASK-976805
-tiffany.bonilla@hsbc.com.SG,Task Cancelled,TASK-55815
-jason.knight@hsbc.com.HK,Error,TASK-808181
-mark.schmitt@hsbc.com.UK,Task Cancelled,TASK-784665
+susan.anderson@hsbc.com.HK,Task Opened,TASK-274991
+tammy.cox@hsbc.com.MY,Task Assigned,TASK-231914
+thomas.carter@hsbc.com.UK,Continued Case Assignment,TASK-432721
+sharon.rubio@hsbc.com.UK,Error,TASK-727902
+cynthia.white@hsbc.com.HK,Stopped Case Assignment,
+victoria.garcia@hsbc.com.HK,Log Out,
+beverly.moore@hsbc.com.SG,Points Earned,TASK-19430
+rachael.bautista@hsbc.com.SG,Task Opened,TASK-916927
+linda.stewart@hsbc.com.MY,Task Returned to RM,TASK-677270
+john.fischer@hsbc.com.MY,Points Earned,TASK-914141
+kelly.barnes@hsbc.com.HK,Task Returned to RM,TASK-64054
+brandon.anderson@hsbc.com.SG,Task Cancelled,TASK-558897
+andrew.miller@hsbc.com.HK,Task Cancelled,TASK-821442
+charles.fisher@hsbc.com.SG,Points Earned,TASK-825969
+andrea.yang@hsbc.com.SG,Continued Case Assignment,TASK-83571
+douglas.henderson@hsbc.com.UK,Task Opened,TASK-928766
+dana.miller@hsbc.com.SG,Continued Case Assignment,TASK-20752
+sean.wood@hsbc.com.UK,Stopped Case Assignment,
+stacy.brown@hsbc.com.SG,Continued Case Assignment,TASK-680542
+ricky.butler@hsbc.com.MY,Continued Case Assignment,TASK-308484
+jessica.flores@hsbc.com.UK,Points Earned,TASK-172011
+james.carter@hsbc.com.UK,Task Cancelled,TASK-820226
+thomas.clements@hsbc.com.MY,Task Assigned,TASK-157691
+laura.hill@hsbc.com.SG,Log Out,
+angela.watts@hsbc.com.HK,Log Out,
+laura.griffin@hsbc.com.MY,Task Completed,TASK-883083
+raymond.saunders@hsbc.com.UK,Log in,
+ryan.wright@hsbc.com.MY,Log in,
+shawn.giles@hsbc.com.UK,Continued Case Assignment,TASK-808707
+douglas.ford@hsbc.com.HK,Task Returned to RM,TASK-541945
+dana.webb@hsbc.com.SG,Error,TASK-151120
+james.smith@hsbc.com.SG,Task Returned to RM,TASK-993876
+holly.montgomery@hsbc.com.SG,Points Earned,TASK-130079
+alan.evans@hsbc.com.HK,Continued Case Assignment,TASK-358357
+kayla.fuller@hsbc.com.SG,Error,TASK-16736
+amy.moore@hsbc.com.HK,Task Returned to RM,TASK-786308
+jasmine.ruiz@hsbc.com.SG,Task Returned to RM,TASK-870394
+erika.wolf@hsbc.com.SG,Task Returned to RM,TASK-349025
+jesse.gill@hsbc.com.MY,Log Out,
+joshua.riggs@hsbc.com.UK,Task Opened,TASK-888244
+david.stephenson@hsbc.com.SG,Task Cancelled,TASK-162421
+billy.scott@hsbc.com.HK,Error,TASK-356307
+alicia.perkins@hsbc.com.UK,Error,TASK-616455
+randy.garcia@hsbc.com.UK,Task Opened,TASK-797544
+johnny.campbell@hsbc.com.HK,Continued Case Assignment,TASK-75613
+karina.stout@hsbc.com.HK,Task Returned to RM,TASK-100320
+caitlin.johnson@hsbc.com.HK,Task Opened,TASK-401136
+laura.torres@hsbc.com.UK,Task Opened,TASK-227166
+matthew.moreno@hsbc.com.MY,Task Returned to RM,TASK-276200
+john.mora@hsbc.com.SG,Task Opened,TASK-482974
+frank.perry@hsbc.com.UK,Task Opened,TASK-357930
+keith.meyer@hsbc.com.HK,Task Returned to RM,TASK-725438
+audrey.burton@hsbc.com.HK,Task Completed,TASK-518750
+amanda.jenkins@hsbc.com.SG,Task Cancelled,TASK-503377
+cynthia.powell@hsbc.com.SG,Stopped Case Assignment,
+kimberly.french@hsbc.com.SG,Continued Case Assignment,TASK-571724
+kelly.watson@hsbc.com.MY,Log in,
+courtney.moore@hsbc.com.HK,Task Opened,TASK-562018
+heidi.james@hsbc.com.UK,Points Earned,TASK-98455
+brittany.taylor@hsbc.com.SG,Task Opened,TASK-94799
+elizabeth.gomez@hsbc.com.HK,Error,TASK-340855
+thomas.perry@hsbc.com.MY,Points Earned,TASK-470069
+thomas.neal@hsbc.com.UK,Points Earned,TASK-412335
+lucas.pearson@hsbc.com.HK,Task Completed,TASK-824267
+brian.evans@hsbc.com.UK,Stopped Case Assignment,
+julie.williams@hsbc.com.UK,Log Out,
+christine.johnson@hsbc.com.MY,Error,TASK-432895
+thomas.oneal@hsbc.com.MY,Error,TASK-578547
+alejandro.rose@hsbc.com.HK,Task Returned to RM,TASK-513353
+carl.camacho@hsbc.com.SG,Log Out,
+gina.harmon@hsbc.com.MY,Continued Case Assignment,TASK-588061
+elizabeth.smith@hsbc.com.UK,Log Out,
+blake.oliver@hsbc.com.HK,Task Assigned,TASK-456559
+yvonne.marks@hsbc.com.HK,Log Out,
+holly.acosta@hsbc.com.MY,Task Opened,TASK-553845
+jeremy.walton@hsbc.com.UK,Log in,
+keith.garcia@hsbc.com.SG,Task Opened,TASK-87623
+steven.rivera@hsbc.com.MY,Log in,
+gary.fisher@hsbc.com.HK,Continued Case Assignment,TASK-960482
+phyllis.graham@hsbc.com.SG,Task Assigned,TASK-239978
+seth.fletcher@hsbc.com.UK,Task Completed,TASK-160704
+alexandria.anderson@hsbc.com.UK,Stopped Case Assignment,
+renee.wallace@hsbc.com.SG,Points Earned,TASK-685582
+kristina.price@hsbc.com.UK,Task Completed,TASK-429022
+lindsay.price@hsbc.com.HK,Points Earned,TASK-879022
+jeffrey.gonzalez@hsbc.com.UK,Points Earned,TASK-926965
+shelby.willis@hsbc.com.HK,Log Out,
+brandon.price@hsbc.com.UK,Log Out,
+jim.miller@hsbc.com.MY,Task Completed,TASK-546284
+jacob.brown@hsbc.com.MY,Log Out,
+danielle.thompson@hsbc.com.UK,Continued Case Assignment,TASK-338614
+cheryl.salazar@hsbc.com.SG,Continued Case Assignment,TASK-165388
+janet.hunt@hsbc.com.MY,Task Assigned,TASK-932017
+justin.rich@hsbc.com.MY,Log in,
+michael.ellis@hsbc.com.UK,Task Assigned,TASK-83890
+crystal.black@hsbc.com.HK,Log in,
+stephanie.blevins@hsbc.com.SG,Continued Case Assignment,TASK-160128
+sarah.villa@hsbc.com.MY,Task Opened,TASK-173466
+bianca.henry@hsbc.com.UK,Continued Case Assignment,TASK-46119
+janet.lewis@hsbc.com.HK,Continued Case Assignment,TASK-412702
+joseph.williams@hsbc.com.UK,Log in,
+francisco.smith@hsbc.com.MY,Task Completed,TASK-685845
+diamond.taylor@hsbc.com.HK,Log in,
+kristin.becker@hsbc.com.HK,Error,TASK-602661
+tara.sanders@hsbc.com.MY,Task Cancelled,TASK-131508
+sandra.chavez@hsbc.com.UK,Task Completed,TASK-706524
+matthew.garcia@hsbc.com.MY,Task Cancelled,TASK-81422
+nicole.norton@hsbc.com.HK,Task Completed,TASK-559830
+marcus.bryant@hsbc.com.MY,Error,TASK-290611
+mark.johnson@hsbc.com.UK,Task Assigned,TASK-602750
+bradley.wood@hsbc.com.MY,Task Assigned,TASK-327412
+jason.warren@hsbc.com.HK,Error,TASK-379343
+jacob.harris@hsbc.com.SG,Task Assigned,TASK-993893
+emily.fitzgerald@hsbc.com.HK,Log Out,
+larry.heath@hsbc.com.SG,Task Assigned,TASK-707928
+jonathan.cooper@hsbc.com.UK,Log Out,
+jennifer.williams@hsbc.com.SG,Task Returned to RM,TASK-921587
+sarah.jones@hsbc.com.MY,Task Returned to RM,TASK-772168
+steven.hardy@hsbc.com.UK,Task Assigned,TASK-510130
+brandon.lamb@hsbc.com.MY,Task Cancelled,TASK-431659
+tiffany.stevens@hsbc.com.MY,Task Cancelled,TASK-630206
+david.miller@hsbc.com.HK,Continued Case Assignment,TASK-864497
+corey.cannon@hsbc.com.HK,Error,TASK-344682
+robert.calhoun@hsbc.com.HK,Continued Case Assignment,TASK-790069
+scott.jones@hsbc.com.SG,Task Cancelled,TASK-712204
+ronald.fischer@hsbc.com.SG,Log in,
+maria.williams@hsbc.com.UK,Task Cancelled,TASK-958692
+henry.burns@hsbc.com.HK,Task Opened,TASK-662569
+david.pitts@hsbc.com.UK,Task Returned to RM,TASK-499421
+sarah.flores@hsbc.com.HK,Task Returned to RM,TASK-547301
+ryan.hawkins@hsbc.com.MY,Error,TASK-371991
+justin.weaver@hsbc.com.MY,Task Returned to RM,TASK-253579
+james.phillips@hsbc.com.UK,Task Cancelled,TASK-824957
+scott.jacobs@hsbc.com.HK,Task Cancelled,TASK-536570
+amanda.green@hsbc.com.SG,Log in,
+jesse.wilson@hsbc.com.UK,Continued Case Assignment,TASK-49419
+kristen.garcia@hsbc.com.HK,Task Assigned,TASK-770430
+jessica.wright@hsbc.com.HK,Task Opened,TASK-412523
+justin.fitzgerald@hsbc.com.UK,Task Completed,TASK-829621
+donna.harmon@hsbc.com.UK,Stopped Case Assignment,
+zachary.trevino@hsbc.com.UK,Continued Case Assignment,TASK-393763
+david.brewer@hsbc.com.HK,Error,TASK-368889
+david.mclaughlin@hsbc.com.MY,Task Completed,TASK-840995
+michael.leonard@hsbc.com.SG,Task Assigned,TASK-547208
+jade.guerrero@hsbc.com.SG,Task Completed,TASK-17229
+jeffrey.decker@hsbc.com.UK,Log Out,
+john.holmes@hsbc.com.SG,Task Returned to RM,TASK-271902
+emily.hall@hsbc.com.SG,Task Returned to RM,TASK-612264
+courtney.mitchell@hsbc.com.MY,Log Out,
+george.pacheco@hsbc.com.UK,Log in,
+angela.murphy@hsbc.com.UK,Task Opened,TASK-90684
+brenda.johnson@hsbc.com.MY,Log Out,
+david.foster@hsbc.com.SG,Points Earned,TASK-508381
+theresa.dixon@hsbc.com.HK,Task Assigned,TASK-126341
+charles.hubbard@hsbc.com.HK,Error,TASK-395865
+kimberly.hampton@hsbc.com.UK,Task Cancelled,TASK-466350
+ashley.dominguez@hsbc.com.HK,Log in,
+jason.oconnor@hsbc.com.HK,Task Returned to RM,TASK-813822
+lisa.wolf@hsbc.com.UK,Task Completed,TASK-659070
+michael.garza@hsbc.com.MY,Error,TASK-265741
+cristina.lester@hsbc.com.UK,Error,TASK-582258
+daniel.flowers@hsbc.com.HK,Points Earned,TASK-35469
+alicia.howard@hsbc.com.UK,Log Out,
+stanley.smith@hsbc.com.MY,Continued Case Assignment,TASK-553877
+jeffrey.delgado@hsbc.com.MY,Task Assigned,TASK-542475
+donna.simpson@hsbc.com.SG,Task Returned to RM,TASK-127074
+stephanie.castillo@hsbc.com.HK,Task Assigned,TASK-52214
+lee.abbott@hsbc.com.UK,Task Returned to RM,TASK-607588
+jonathon.munoz@hsbc.com.HK,Log Out,
+jade.underwood@hsbc.com.SG,Points Earned,TASK-386120
+kristen.cruz@hsbc.com.SG,Log in,
+brian.johnson@hsbc.com.HK,Points Earned,TASK-51679
+jessica.nixon@hsbc.com.UK,Task Assigned,TASK-998267
+matthew.alexander@hsbc.com.UK,Continued Case Assignment,TASK-393523
+jessica.barrett@hsbc.com.HK,Task Returned to RM,TASK-198552
+jordan.powers@hsbc.com.SG,Log in,
+kevin.kelly@hsbc.com.HK,Continued Case Assignment,TASK-367470
+amber.oconnor@hsbc.com.MY,Task Assigned,TASK-292341
+edward.johnson@hsbc.com.HK,Error,TASK-519655
+courtney.johnson@hsbc.com.HK,Task Completed,TASK-516610
+brady.perez@hsbc.com.UK,Task Opened,TASK-802695
+desiree.jones@hsbc.com.MY,Task Returned to RM,TASK-968615
+bryan.stanton@hsbc.com.UK,Stopped Case Assignment,
+roberto.stafford@hsbc.com.MY,Log in,
+jay.graham@hsbc.com.UK,Continued Case Assignment,TASK-935103
+michael.thompson@hsbc.com.MY,Error,TASK-449446
+mark.hatfield@hsbc.com.UK,Task Cancelled,TASK-11366
+julie.reyes@hsbc.com.SG,Log in,
+robert.baker@hsbc.com.UK,Task Cancelled,TASK-860568
+amanda.fitzgerald@hsbc.com.HK,Task Cancelled,TASK-689367
+gloria.ford@hsbc.com.HK,Log in,
+bobby.dorsey@hsbc.com.MY,Task Returned to RM,TASK-816982
+robert.myers@hsbc.com.UK,Continued Case Assignment,TASK-257629
+aaron.taylor@hsbc.com.MY,Task Returned to RM,TASK-696136
+misty.palmer@hsbc.com.UK,Continued Case Assignment,TASK-696273
+jessica.hernandez@hsbc.com.UK,Task Opened,TASK-510606
+mark.larsen@hsbc.com.SG,Stopped Case Assignment,
+lori.wright@hsbc.com.HK,Log in,
+andrew.drake@hsbc.com.MY,Log in,
+gary.french@hsbc.com.SG,Task Completed,TASK-788931
+gabriela.jackson@hsbc.com.SG,Log Out,
+christian.pennington@hsbc.com.UK,Stopped Case Assignment,
+carla.oliver@hsbc.com.UK,Task Completed,TASK-770499
+stephen.hernandez@hsbc.com.MY,Continued Case Assignment,TASK-940233
+carolyn.king@hsbc.com.UK,Continued Case Assignment,TASK-370982
+linda.oconnor@hsbc.com.HK,Log Out,
+anthony.randolph@hsbc.com.SG,Task Cancelled,TASK-726615
+barry.davis@hsbc.com.SG,Task Opened,TASK-851795
+kelly.hernandez@hsbc.com.UK,Stopped Case Assignment,
+joel.kelly@hsbc.com.UK,Task Assigned,TASK-898363
+jill.sullivan@hsbc.com.MY,Task Completed,TASK-876060
+joseph.vasquez@hsbc.com.HK,Task Returned to RM,TASK-832586
+philip.collins@hsbc.com.HK,Task Opened,TASK-770890
+rachel.pierce@hsbc.com.MY,Log Out,
+tiffany.mejia@hsbc.com.SG,Task Cancelled,TASK-178523
+ashley.baker@hsbc.com.MY,Task Cancelled,TASK-976805
+gloria.bryant@hsbc.com.HK,Continued Case Assignment,TASK-55815
+jennifer.powell@hsbc.com.SG,Continued Case Assignment,TASK-808181
+tyler.smith@hsbc.com.HK,Task Completed,TASK-784665
+jody.johnson@hsbc.com.MY,Task Opened,TASK-513564
+erin.perkins@hsbc.com.SG,Stopped Case Assignment,
+kimberly.roberts@hsbc.com.MY,Log in,
+gina.clark@hsbc.com.UK,Continued Case Assignment,TASK-561465
+allison.peterson@hsbc.com.MY,Task Completed,TASK-700486
+tiffany.bonilla@hsbc.com.UK,Task Cancelled,TASK-983316
+jason.knight@hsbc.com.SG,Stopped Case Assignment,
+mark.schmitt@hsbc.com.SG,Task Cancelled,TASK-182900
 sandra.willis@hsbc.com.MY,Log in,
-jennifer.maldonado@hsbc.com.HK,Continued Case Assignment,TASK-513564
-michael.hendricks@hsbc.com.HK,Task Opened,TASK-561465
-rachel.rivera@hsbc.com.UK,Continued Case Assignment,TASK-700486
-julie.smith@hsbc.com.HK,Task Assigned,TASK-983316
-lisa.cunningham@hsbc.com.SG,Error,TASK-182900
-stephanie.cox@hsbc.com.HK,Task Cancelled,TASK-883565
-connie.morris@hsbc.com.MY,Points Earned,TASK-413984
-kirsten.burke@hsbc.com.MY,Log Out,
-vanessa.smith@hsbc.com.SG,Task Opened,TASK-739120
-donald.williams@hsbc.com.HK,Stopped Case Assignment,
-david.noble@hsbc.com.SG,Task Assigned,TASK-311762
-stacy.castillo@hsbc.com.UK,Points Earned,TASK-728222
-stacey.cardenas@hsbc.com.UK,Stopped Case Assignment,
-kimberly.burgess@hsbc.com.UK,Stopped Case Assignment,
-jacob.dunn@hsbc.com.HK,Error,TASK-931380
-rodney.dodson@hsbc.com.HK,Task Cancelled,TASK-618453
-glenn.jackson@hsbc.com.MY,Log in,
-donna.moore@hsbc.com.SG,Points Earned,TASK-517191
-daniel.gordon@hsbc.com.SG,Log Out,
-laura.jacobs@hsbc.com.UK,Error,TASK-233376
-karen.baker@hsbc.com.UK,Task Assigned,TASK-968031
-justin.patterson@hsbc.com.UK,Task Returned to RM,TASK-38620
-vicki.robbins@hsbc.com.MY,Log Out,
-sophia.medina@hsbc.com.MY,Error,TASK-751542
-angela.branch@hsbc.com.UK,Continued Case Assignment,TASK-486303
-james.patton@hsbc.com.MY,Task Cancelled,TASK-663343
-latasha.kirk@hsbc.com.HK,Task Cancelled,TASK-638913
-karen.moore@hsbc.com.HK,Points Earned,TASK-876008
-donna.bradshaw@hsbc.com.UK,Task Cancelled,TASK-713467
-anna.ward@hsbc.com.HK,Task Assigned,TASK-191829
-stefanie.hoffman@hsbc.com.SG,Points Earned,TASK-651278
-robert.mendez@hsbc.com.SG,Task Opened,TASK-473135
-linda.perez@hsbc.com.UK,Error,TASK-340561
-alfred.rice@hsbc.com.MY,Task Cancelled,TASK-616487
-shelly.frazier@hsbc.com.UK,Continued Case Assignment,TASK-353682
-crystal.burton@hsbc.com.MY,Continued Case Assignment,TASK-460823
-tyler.simon@hsbc.com.SG,Task Opened,TASK-605465
-john.snow@hsbc.com.UK,Continued Case Assignment,TASK-816825
-joshua.duffy@hsbc.com.MY,Error,TASK-917296
-sara.miller@hsbc.com.UK,Error,TASK-917090
-shane.manning@hsbc.com.UK,Task Cancelled,TASK-669035
-shannon.hicks@hsbc.com.SG,Continued Case Assignment,TASK-161086
-lindsay.bush@hsbc.com.UK,Task Assigned,TASK-547291
-susan.martin@hsbc.com.HK,Error,TASK-460398
-sandra.reilly@hsbc.com.UK,Task Opened,TASK-420456
-cynthia.shepard@hsbc.com.HK,Log Out,
-johnny.macias@hsbc.com.MY,Stopped Case Assignment,
-kiara.lynch@hsbc.com.HK,Points Earned,TASK-258751
-christopher.johnson@hsbc.com.SG,Task Assigned,TASK-396540
-alex.king@hsbc.com.UK,Log Out,
-kathryn.hughes@hsbc.com.MY,Points Earned,TASK-409488
-kimberly.garrett@hsbc.com.UK,Log in,
-paul.beard@hsbc.com.SG,Log in,
-benjamin.marshall@hsbc.com.UK,Error,TASK-319558
-maria.martinez@hsbc.com.SG,Stopped Case Assignment,
-jennifer.murphy@hsbc.com.SG,Log Out,
-andrew.wells@hsbc.com.MY,Error,TASK-262306
-aimee.williams@hsbc.com.SG,Task Cancelled,TASK-231637
-ashlee.reed@hsbc.com.HK,Log in,
-adam.lee@hsbc.com.HK,Continued Case Assignment,TASK-277300
-daniel.fernandez@hsbc.com.MY,Log in,
-bradley.hebert@hsbc.com.MY,Task Opened,TASK-263543
-megan.landry@hsbc.com.HK,Task Completed,TASK-572520
-leroy.whitehead@hsbc.com.MY,Log in,
-tracey.hubbard@hsbc.com.HK,Task Cancelled,TASK-625675
-joshua.lambert@hsbc.com.HK,Continued Case Assignment,TASK-917930
-caitlin.powell@hsbc.com.MY,Log in,
-kevin.brown@hsbc.com.HK,Stopped Case Assignment,
-david.anderson@hsbc.com.SG,Task Completed,TASK-982837
-timothy.may@hsbc.com.UK,Task Returned to RM,TASK-937951
-kathryn.williams@hsbc.com.SG,Task Completed,TASK-400138
-madison.williams@hsbc.com.MY,Task Assigned,TASK-998073
-angela.manning@hsbc.com.HK,Task Assigned,TASK-487663
-crystal.herring@hsbc.com.MY,Points Earned,TASK-259735
-melvin.willis@hsbc.com.MY,Continued Case Assignment,TASK-638438
-christopher.castro@hsbc.com.MY,Log Out,
-lisa.harris@hsbc.com.SG,Task Cancelled,TASK-364134
-jose.graves@hsbc.com.UK,Error,TASK-664292
-jon.green@hsbc.com.HK,Task Returned to RM,TASK-673895
-selena.lutz@hsbc.com.HK,Continued Case Assignment,TASK-163578
-eric.mccullough@hsbc.com.UK,Continued Case Assignment,TASK-347698
-angela.johnson@hsbc.com.MY,Task Returned to RM,TASK-265406
-brenda.may@hsbc.com.UK,Log Out,
-arthur.todd@hsbc.com.UK,Task Completed,TASK-160919
-lisa.jones@hsbc.com.SG,Task Completed,TASK-895080
-deborah.bryant@hsbc.com.HK,Error,TASK-806770
-john.ellis@hsbc.com.SG,Stopped Case Assignment,
-erik.cook@hsbc.com.UK,Task Opened,TASK-279170
-diana.alvarez@hsbc.com.SG,Task Returned to RM,TASK-587127
-angela.stephens@hsbc.com.HK,Task Completed,TASK-191377
-lori.cooper@hsbc.com.SG,Task Cancelled,TASK-572585
-lisa.miller@hsbc.com.MY,Task Opened,TASK-748882
-ronald.gomez@hsbc.com.SG,Stopped Case Assignment,
-shannon.bass@hsbc.com.UK,Log Out,
-william.archer@hsbc.com.SG,Log Out,
-michelle.wilson@hsbc.com.MY,Task Cancelled,TASK-754982
-logan.johnson@hsbc.com.UK,Stopped Case Assignment,
-jessica.smith@hsbc.com.UK,Log in,
-norma.lee@hsbc.com.UK,Log in,
-robert.brown@hsbc.com.MY,Task Cancelled,TASK-635419
-larry.price@hsbc.com.MY,Error,TASK-130313
-brett.saunders@hsbc.com.UK,Continued Case Assignment,TASK-947088
-jennifer.howard@hsbc.com.UK,Continued Case Assignment,TASK-976691
-mary.jones@hsbc.com.SG,Log Out,
-brian.kelly@hsbc.com.SG,Stopped Case Assignment,
-rachel.avila@hsbc.com.MY,Stopped Case Assignment,
-emily.hart@hsbc.com.HK,Log in,
-linda.gutierrez@hsbc.com.UK,Task Assigned,TASK-478600
-anthony.lang@hsbc.com.HK,Task Opened,TASK-513130
-james.hughes@hsbc.com.UK,Task Assigned,TASK-224763
-michael.martinez@hsbc.com.MY,Task Cancelled,TASK-735435
-michael.thompson@hsbc.com.UK,Task Returned to RM,TASK-200339
-christina.valdez@hsbc.com.MY,Task Completed,TASK-639485
-alexander.bryant@hsbc.com.MY,Log in,
-angela.savage@hsbc.com.HK,Continued Case Assignment,TASK-385324
-tyler.miller@hsbc.com.HK,Task Cancelled,TASK-644632
-brett.atkins@hsbc.com.MY,Stopped Case Assignment,
-krystal.garrison@hsbc.com.SG,Error,TASK-271172
-jose.wong@hsbc.com.SG,Stopped Case Assignment,
-cody.serrano@hsbc.com.HK,Task Cancelled,TASK-754396
-matthew.friedman@hsbc.com.MY,Task Returned to RM,TASK-851115
-thomas.johnson@hsbc.com.MY,Log in,
-regina.garrett@hsbc.com.SG,Points Earned,TASK-103108
-justin.johnson@hsbc.com.SG,Task Opened,TASK-577088
-nicholas.moore@hsbc.com.HK,Continued Case Assignment,TASK-530862
-amy.thomas@hsbc.com.UK,Task Opened,TASK-958689
-greg.mccall@hsbc.com.MY,Log Out,
-danielle.sanchez@hsbc.com.SG,Task Cancelled,TASK-230504
-natasha.weber@hsbc.com.SG,Task Completed,TASK-318011
-sonya.webb@hsbc.com.UK,Continued Case Assignment,TASK-418613
-pamela.gregory@hsbc.com.SG,Task Completed,TASK-296714
-bradley.allen@hsbc.com.HK,Task Opened,TASK-546604
-juan.jackson@hsbc.com.MY,Points Earned,TASK-221848
-john.perez@hsbc.com.UK,Log in,
-natalie.ford@hsbc.com.UK,Task Assigned,TASK-381142
-nancy.taylor@hsbc.com.HK,Task Opened,TASK-895050
-annette.smith@hsbc.com.SG,Task Completed,TASK-436469
-sarah.smith@hsbc.com.UK,Task Cancelled,TASK-340641
-peter.solis@hsbc.com.HK,Task Returned to RM,TASK-776372
-zoe.smith@hsbc.com.HK,Log in,
-madison.hicks@hsbc.com.SG,Stopped Case Assignment,
-benjamin.waters@hsbc.com.SG,Log in,
-daniel.carr@hsbc.com.UK,Task Opened,TASK-31744
-kimberly.nunez@hsbc.com.SG,Task Opened,TASK-55431
-noah.johnson@hsbc.com.SG,Points Earned,TASK-211421
-samuel.mcintyre@hsbc.com.MY,Continued Case Assignment,TASK-216570
-mason.wright@hsbc.com.UK,Log in,
-devin.dixon@hsbc.com.MY,Stopped Case Assignment,
-amanda.jones@hsbc.com.SG,Points Earned,TASK-643253
-ricky.hopkins@hsbc.com.UK,Task Opened,TASK-881649
-tammy.reynolds@hsbc.com.UK,Task Returned to RM,TASK-181499
-ryan.ruiz@hsbc.com.MY,Task Returned to RM,TASK-898040
-jeffrey.foster@hsbc.com.MY,Task Cancelled,TASK-594286
-deanna.sanders@hsbc.com.SG,Error,TASK-490597
-bonnie.houston@hsbc.com.UK,Log Out,
-whitney.dyer@hsbc.com.UK,Points Earned,TASK-94867
-nathan.johnson@hsbc.com.SG,Points Earned,TASK-273039
-cheryl.wells@hsbc.com.MY,Task Assigned,TASK-535833
-joel.williams@hsbc.com.SG,Points Earned,TASK-311744
-marc.yates@hsbc.com.HK,Task Opened,TASK-732082
-tamara.rodriguez@hsbc.com.MY,Stopped Case Assignment,
-natalie.williams@hsbc.com.HK,Continued Case Assignment,TASK-520070
-jennifer.johnson@hsbc.com.SG,Points Earned,TASK-450169
-robert.berg@hsbc.com.HK,Log Out,
-phillip.middleton@hsbc.com.SG,Log Out,
-jennifer.munoz@hsbc.com.HK,Log in,
-evan.peterson@hsbc.com.HK,Log Out,
-robert.lawrence@hsbc.com.UK,Task Assigned,TASK-863458
-wendy.campbell@hsbc.com.HK,Error,TASK-339442
-wesley.mahoney@hsbc.com.HK,Stopped Case Assignment,
-michael.fuller@hsbc.com.MY,Stopped Case Assignment,
-katie.mccoy@hsbc.com.HK,Error,TASK-899713
-karen.gonzalez@hsbc.com.SG,Task Returned to RM,TASK-716440
-susan.thompson@hsbc.com.MY,Continued Case Assignment,TASK-788811
-brandy.phillips@hsbc.com.SG,Error,TASK-990717
-cynthia.carter@hsbc.com.UK,Task Completed,TASK-744030
-ryan.fleming@hsbc.com.MY,Log in,
-joseph.luna@hsbc.com.MY,Stopped Case Assignment,
-michael.anderson@hsbc.com.MY,Points Earned,TASK-926073
-christie.martin@hsbc.com.SG,Task Opened,TASK-740931
-russell.ross@hsbc.com.SG,Error,TASK-414087
-charles.page@hsbc.com.HK,Task Cancelled,TASK-67097
-erin.strickland@hsbc.com.MY,Stopped Case Assignment,
-amy.spencer@hsbc.com.UK,Points Earned,TASK-915342
-gary.clark@hsbc.com.UK,Error,TASK-969113
-jeremy.fox@hsbc.com.UK,Log Out,
-lori.kelly@hsbc.com.MY,Continued Case Assignment,TASK-130622
-nicole.fitzgerald@hsbc.com.HK,Log Out,
-jennifer.rogers@hsbc.com.MY,Continued Case Assignment,TASK-945907
-david.estes@hsbc.com.MY,Task Assigned,TASK-71573
-melissa.ortiz@hsbc.com.MY,Task Assigned,TASK-360900
-michelle.nolan@hsbc.com.MY,Stopped Case Assignment,
-matthew.mason@hsbc.com.HK,Task Returned to RM,TASK-177471
-martin.neal@hsbc.com.SG,Task Returned to RM,TASK-809967
-rhonda.rollins@hsbc.com.HK,Task Assigned,TASK-289054
-julia.torres@hsbc.com.SG,Log in,
-nicole.riddle@hsbc.com.UK,Task Opened,TASK-654862
-michael.fry@hsbc.com.HK,Task Completed,TASK-765186
-william.oconnell@hsbc.com.SG,Log in,
-wendy.hess@hsbc.com.UK,Task Completed,TASK-595924
-frances.moore@hsbc.com.UK,Task Returned to RM,TASK-469405
-adam.larson@hsbc.com.HK,Stopped Case Assignment,
-janet.walls@hsbc.com.MY,Continued Case Assignment,TASK-333883
-zachary.terry@hsbc.com.HK,Points Earned,TASK-584574
-deborah.harris@hsbc.com.HK,Task Cancelled,TASK-952755
-dawn.holden@hsbc.com.HK,Error,TASK-445019
-daniel.barker@hsbc.com.HK,Task Cancelled,TASK-904173
-christina.bennett@hsbc.com.HK,Task Returned to RM,TASK-970630
-laura.smith@hsbc.com.UK,Continued Case Assignment,TASK-515114
-patricia.roth@hsbc.com.MY,Task Opened,TASK-403190
-timothy.rodriguez@hsbc.com.HK,Error,TASK-241088
-shawn.silva@hsbc.com.UK,Task Opened,TASK-719251
-jon.tucker@hsbc.com.UK,Task Opened,TASK-104024
-kimberly.livingston@hsbc.com.SG,Task Cancelled,TASK-771464
-anna.wilcox@hsbc.com.MY,Log in,
-christian.gates@hsbc.com.MY,Task Completed,TASK-94072
-samantha.jackson@hsbc.com.SG,Points Earned,TASK-838771
-maria.atkinson@hsbc.com.UK,Log in,
-natalie.holmes@hsbc.com.MY,Task Returned to RM,TASK-668661
-charlene.clark@hsbc.com.SG,Log Out,
-jean.sullivan@hsbc.com.MY,Task Opened,TASK-105679
-andrew.taylor@hsbc.com.HK,Points Earned,TASK-540716
-paul.mcclure@hsbc.com.UK,Task Completed,TASK-28381
-annette.hendricks@hsbc.com.UK,Points Earned,TASK-906021
-sarah.miller@hsbc.com.MY,Task Returned to RM,TASK-702175
-brianna.cook@hsbc.com.UK,Points Earned,TASK-620820
-william.gibson@hsbc.com.SG,Error,TASK-547991
-timothy.garcia@hsbc.com.SG,Task Assigned,TASK-357006
-marissa.henry@hsbc.com.UK,Task Returned to RM,TASK-778530
-deanna.kennedy@hsbc.com.SG,Log Out,
-herbert.weaver@hsbc.com.UK,Task Completed,TASK-866356
-erik.phelps@hsbc.com.HK,Task Completed,TASK-635602
-marie.thomas@hsbc.com.HK,Task Opened,TASK-110417
-casey.jones@hsbc.com.MY,Error,TASK-954902
-phillip.benton@hsbc.com.MY,Points Earned,TASK-600885
+jennifer.maldonado@hsbc.com.UK,Task Opened,TASK-883565
+michael.hendricks@hsbc.com.SG,Task Completed,TASK-413984
+rachel.rivera@hsbc.com.UK,Task Completed,TASK-739120
+julie.smith@hsbc.com.UK,Task Completed,TASK-311762
+lisa.cunningham@hsbc.com.MY,Error,TASK-728222
+stephanie.cox@hsbc.com.MY,Task Opened,TASK-931380
+connie.morris@hsbc.com.HK,Points Earned,TASK-618453
+kirsten.burke@hsbc.com.HK,Task Opened,TASK-517191
+vanessa.smith@hsbc.com.SG,Task Assigned,TASK-233376
+donald.williams@hsbc.com.SG,Task Assigned,TASK-968031
+david.noble@hsbc.com.SG,Error,TASK-38620
+stacy.castillo@hsbc.com.MY,Task Returned to RM,TASK-751542
+stacey.cardenas@hsbc.com.HK,Task Completed,TASK-486303
+kimberly.burgess@hsbc.com.UK,Task Completed,TASK-663343
+jacob.dunn@hsbc.com.SG,Task Cancelled,TASK-638913
+rodney.dodson@hsbc.com.HK,Stopped Case Assignment,
+glenn.jackson@hsbc.com.UK,Task Cancelled,TASK-876008
+donna.moore@hsbc.com.UK,Stopped Case Assignment,
+daniel.gordon@hsbc.com.HK,Log in,
+laura.jacobs@hsbc.com.UK,Log Out,
+karen.baker@hsbc.com.SG,Log Out,
+justin.patterson@hsbc.com.MY,Log in,
+vicki.robbins@hsbc.com.UK,Error,TASK-713467
+sophia.medina@hsbc.com.SG,Task Completed,TASK-191829
+angela.branch@hsbc.com.MY,Log Out,
+james.patton@hsbc.com.HK,Task Returned to RM,TASK-651278
+latasha.kirk@hsbc.com.MY,Task Cancelled,TASK-473135
+karen.moore@hsbc.com.UK,Log in,
+donna.bradshaw@hsbc.com.HK,Task Assigned,TASK-340561
+anna.ward@hsbc.com.SG,Task Returned to RM,TASK-616487
+stefanie.hoffman@hsbc.com.UK,Log Out,
+robert.mendez@hsbc.com.MY,Task Opened,TASK-353682
+linda.perez@hsbc.com.MY,Task Opened,TASK-460823
+alfred.rice@hsbc.com.HK,Task Cancelled,TASK-605465
+shelly.frazier@hsbc.com.UK,Task Returned to RM,TASK-816825
+crystal.burton@hsbc.com.UK,Stopped Case Assignment,
+tyler.simon@hsbc.com.MY,Task Opened,TASK-917296
+john.snow@hsbc.com.SG,Points Earned,TASK-917090
+joshua.duffy@hsbc.com.MY,Error,TASK-669035
+sara.miller@hsbc.com.SG,Task Opened,TASK-161086
+shane.manning@hsbc.com.UK,Error,TASK-547291
+shannon.hicks@hsbc.com.HK,Task Assigned,TASK-460398
+lindsay.bush@hsbc.com.MY,Continued Case Assignment,TASK-420456
+susan.martin@hsbc.com.HK,Stopped Case Assignment,
+sandra.reilly@hsbc.com.HK,Task Cancelled,TASK-258751
+cynthia.shepard@hsbc.com.MY,Task Assigned,TASK-396540
+johnny.macias@hsbc.com.MY,Points Earned,TASK-409488
+kiara.lynch@hsbc.com.MY,Error,TASK-319558
+christopher.johnson@hsbc.com.UK,Log Out,
+alex.king@hsbc.com.HK,Task Cancelled,TASK-262306
+kathryn.hughes@hsbc.com.HK,Task Assigned,TASK-231637
+kimberly.garrett@hsbc.com.HK,Task Completed,TASK-277300
+paul.beard@hsbc.com.SG,Continued Case Assignment,TASK-263543
+benjamin.marshall@hsbc.com.HK,Error,TASK-572520
+maria.martinez@hsbc.com.MY,Task Returned to RM,TASK-625675
+jennifer.murphy@hsbc.com.UK,Task Assigned,TASK-917930
+andrew.wells@hsbc.com.HK,Stopped Case Assignment,
+aimee.williams@hsbc.com.HK,Task Cancelled,TASK-982837
+ashlee.reed@hsbc.com.SG,Continued Case Assignment,TASK-937951
+adam.lee@hsbc.com.SG,Task Returned to RM,TASK-400138
+daniel.fernandez@hsbc.com.UK,Task Returned to RM,TASK-998073
+bradley.hebert@hsbc.com.UK,Log in,
+megan.landry@hsbc.com.UK,Task Opened,TASK-487663
+leroy.whitehead@hsbc.com.UK,Task Assigned,TASK-259735
+tracey.hubbard@hsbc.com.UK,Error,TASK-638438
+joshua.lambert@hsbc.com.MY,Task Assigned,TASK-364134
+caitlin.powell@hsbc.com.SG,Task Assigned,TASK-664292
+kevin.brown@hsbc.com.HK,Log in,
+david.anderson@hsbc.com.UK,Points Earned,TASK-673895
+timothy.may@hsbc.com.MY,Stopped Case Assignment,
+kathryn.williams@hsbc.com.SG,Continued Case Assignment,TASK-163578
+madison.williams@hsbc.com.SG,Log in,
+angela.manning@hsbc.com.SG,Task Opened,TASK-347698
+crystal.herring@hsbc.com.HK,Task Completed,TASK-265406
+melvin.willis@hsbc.com.HK,Task Assigned,TASK-160919
+christopher.castro@hsbc.com.UK,Task Completed,TASK-895080
+lisa.harris@hsbc.com.UK,Stopped Case Assignment,
+jose.graves@hsbc.com.UK,Points Earned,TASK-806770
+jon.green@hsbc.com.SG,Task Completed,TASK-279170
+selena.lutz@hsbc.com.HK,Log in,
+eric.mccullough@hsbc.com.SG,Task Assigned,TASK-587127
+angela.johnson@hsbc.com.SG,Points Earned,TASK-191377
+brenda.may@hsbc.com.MY,Task Assigned,TASK-572585
+arthur.todd@hsbc.com.UK,Task Returned to RM,TASK-748882
+lisa.jones@hsbc.com.HK,Log Out,
+deborah.bryant@hsbc.com.MY,Error,TASK-754982
+john.ellis@hsbc.com.SG,Task Returned to RM,TASK-635419
+erik.cook@hsbc.com.UK,Points Earned,TASK-130313
+diana.alvarez@hsbc.com.MY,Task Opened,TASK-947088
+angela.stephens@hsbc.com.UK,Log in,
+lori.cooper@hsbc.com.SG,Task Returned to RM,TASK-976691
+lisa.miller@hsbc.com.HK,Points Earned,TASK-478600
+ronald.gomez@hsbc.com.UK,Task Opened,TASK-513130
+shannon.bass@hsbc.com.MY,Log in,
+william.archer@hsbc.com.UK,Points Earned,TASK-224763
+michelle.wilson@hsbc.com.HK,Task Cancelled,TASK-735435
+logan.johnson@hsbc.com.HK,Log Out,
+jessica.smith@hsbc.com.HK,Task Assigned,TASK-200339
+norma.lee@hsbc.com.UK,Continued Case Assignment,TASK-639485
+robert.brown@hsbc.com.UK,Task Assigned,TASK-385324
+larry.price@hsbc.com.SG,Log Out,
+brett.saunders@hsbc.com.UK,Task Assigned,TASK-644632
+jennifer.howard@hsbc.com.HK,Log in,
+mary.jones@hsbc.com.HK,Log Out,
+brian.kelly@hsbc.com.SG,Error,TASK-271172
+rachel.avila@hsbc.com.HK,Task Opened,TASK-754396
+emily.hart@hsbc.com.UK,Task Assigned,TASK-851115
+linda.gutierrez@hsbc.com.MY,Task Opened,TASK-103108
+anthony.lang@hsbc.com.HK,Continued Case Assignment,TASK-577088
+james.hughes@hsbc.com.UK,Points Earned,TASK-530862
+michael.martinez@hsbc.com.MY,Log in,
+michael.thompson@hsbc.com.MY,Points Earned,TASK-958689
+christina.valdez@hsbc.com.HK,Task Returned to RM,TASK-230504
+alexander.bryant@hsbc.com.HK,Task Completed,TASK-318011
+angela.savage@hsbc.com.SG,Continued Case Assignment,TASK-418613
+tyler.miller@hsbc.com.UK,Continued Case Assignment,TASK-296714
+brett.atkins@hsbc.com.MY,Error,TASK-546604
+krystal.garrison@hsbc.com.UK,Points Earned,TASK-221848
+jose.wong@hsbc.com.SG,Task Returned to RM,TASK-381142
+cody.serrano@hsbc.com.SG,Stopped Case Assignment,
+matthew.friedman@hsbc.com.UK,Stopped Case Assignment,
+thomas.johnson@hsbc.com.SG,Log in,
+regina.garrett@hsbc.com.MY,Task Assigned,TASK-895050
+justin.johnson@hsbc.com.MY,Points Earned,TASK-436469
+nicholas.moore@hsbc.com.UK,Task Assigned,TASK-340641
+amy.thomas@hsbc.com.SG,Task Completed,TASK-776372
+greg.mccall@hsbc.com.SG,Task Assigned,TASK-31744
+danielle.sanchez@hsbc.com.SG,Log Out,
+natasha.weber@hsbc.com.HK,Stopped Case Assignment,
+sonya.webb@hsbc.com.HK,Task Cancelled,TASK-55431
+pamela.gregory@hsbc.com.HK,Log in,
+bradley.allen@hsbc.com.SG,Task Assigned,TASK-211421
+juan.jackson@hsbc.com.UK,Log Out,
+john.perez@hsbc.com.SG,Task Returned to RM,TASK-216570
+natalie.ford@hsbc.com.MY,Points Earned,TASK-643253
+nancy.taylor@hsbc.com.UK,Task Opened,TASK-881649
+annette.smith@hsbc.com.MY,Continued Case Assignment,TASK-181499
+sarah.smith@hsbc.com.UK,Task Completed,TASK-898040
+peter.solis@hsbc.com.SG,Stopped Case Assignment,
+zoe.smith@hsbc.com.HK,Log Out,
+madison.hicks@hsbc.com.MY,Task Completed,TASK-594286
+benjamin.waters@hsbc.com.UK,Task Assigned,TASK-490597
+daniel.carr@hsbc.com.SG,Task Returned to RM,TASK-94867
+kimberly.nunez@hsbc.com.HK,Points Earned,TASK-273039
+noah.johnson@hsbc.com.SG,Continued Case Assignment,TASK-535833
+samuel.mcintyre@hsbc.com.UK,Task Opened,TASK-311744
+mason.wright@hsbc.com.SG,Task Cancelled,TASK-732082
+devin.dixon@hsbc.com.MY,Points Earned,TASK-520070
+amanda.jones@hsbc.com.MY,Task Opened,TASK-450169
+ricky.hopkins@hsbc.com.HK,Task Returned to RM,TASK-863458
+tammy.reynolds@hsbc.com.HK,Stopped Case Assignment,
+ryan.ruiz@hsbc.com.UK,Log in,
+jeffrey.foster@hsbc.com.HK,Task Assigned,TASK-339442
+deanna.sanders@hsbc.com.HK,Task Returned to RM,TASK-899713
+bonnie.houston@hsbc.com.HK,Task Cancelled,TASK-716440
+whitney.dyer@hsbc.com.SG,Points Earned,TASK-788811
+nathan.johnson@hsbc.com.UK,Continued Case Assignment,TASK-990717
+cheryl.wells@hsbc.com.MY,Task Returned to RM,TASK-744030
+joel.williams@hsbc.com.MY,Task Cancelled,TASK-926073
+marc.yates@hsbc.com.MY,Log in,
+tamara.rodriguez@hsbc.com.SG,Task Returned to RM,TASK-740931
+natalie.williams@hsbc.com.HK,Points Earned,TASK-414087
+jennifer.johnson@hsbc.com.UK,Error,TASK-67097
+robert.berg@hsbc.com.HK,Task Returned to RM,TASK-915342
+phillip.middleton@hsbc.com.HK,Task Cancelled,TASK-969113
+jennifer.munoz@hsbc.com.UK,Task Completed,TASK-130622
+evan.peterson@hsbc.com.MY,Task Opened,TASK-945907
+robert.lawrence@hsbc.com.MY,Task Assigned,TASK-71573
+wendy.campbell@hsbc.com.SG,Task Assigned,TASK-360900
+wesley.mahoney@hsbc.com.SG,Error,TASK-177471
+michael.fuller@hsbc.com.MY,Log in,
+katie.mccoy@hsbc.com.SG,Stopped Case Assignment,
+karen.gonzalez@hsbc.com.MY,Stopped Case Assignment,
+susan.thompson@hsbc.com.MY,Task Opened,TASK-809967
+brandy.phillips@hsbc.com.SG,Task Assigned,TASK-289054
+cynthia.carter@hsbc.com.SG,Continued Case Assignment,TASK-654862
+ryan.fleming@hsbc.com.SG,Task Completed,TASK-765186
+joseph.luna@hsbc.com.UK,Task Cancelled,TASK-595924
+michael.anderson@hsbc.com.SG,Error,TASK-469405
+christie.martin@hsbc.com.SG,Task Completed,TASK-333883
+russell.ross@hsbc.com.MY,Task Completed,TASK-584574
+charles.page@hsbc.com.UK,Points Earned,TASK-952755
+erin.strickland@hsbc.com.HK,Log in,
+amy.spencer@hsbc.com.SG,Log in,
+gary.clark@hsbc.com.SG,Points Earned,TASK-445019
+jeremy.fox@hsbc.com.SG,Points Earned,TASK-904173
+lori.kelly@hsbc.com.MY,Log in,
+nicole.fitzgerald@hsbc.com.SG,Points Earned,TASK-970630
+jennifer.rogers@hsbc.com.HK,Points Earned,TASK-515114
+david.estes@hsbc.com.HK,Task Cancelled,TASK-403190
+melissa.ortiz@hsbc.com.HK,Error,TASK-241088
+michelle.nolan@hsbc.com.HK,Error,TASK-719251
+matthew.mason@hsbc.com.UK,Log in,
+martin.neal@hsbc.com.HK,Task Cancelled,TASK-104024
+rhonda.rollins@hsbc.com.SG,Log in,
+julia.torres@hsbc.com.UK,Task Returned to RM,TASK-771464
+nicole.riddle@hsbc.com.HK,Log in,
+michael.fry@hsbc.com.MY,Points Earned,TASK-94072
+william.oconnell@hsbc.com.MY,Continued Case Assignment,TASK-838771
+wendy.hess@hsbc.com.MY,Stopped Case Assignment,
+frances.moore@hsbc.com.SG,Error,TASK-668661
+adam.larson@hsbc.com.SG,Points Earned,TASK-105679
+janet.walls@hsbc.com.HK,Task Opened,TASK-540716
+zachary.terry@hsbc.com.SG,Task Opened,TASK-28381
+deborah.harris@hsbc.com.UK,Log Out,
+dawn.holden@hsbc.com.MY,Points Earned,TASK-906021
+daniel.barker@hsbc.com.MY,Task Cancelled,TASK-702175
+christina.bennett@hsbc.com.UK,Task Cancelled,TASK-620820
+laura.smith@hsbc.com.HK,Task Assigned,TASK-547991
+patricia.roth@hsbc.com.MY,Task Assigned,TASK-357006
+timothy.rodriguez@hsbc.com.UK,Task Returned to RM,TASK-778530
+shawn.silva@hsbc.com.HK,Log Out,
+jon.tucker@hsbc.com.HK,Log in,
+kimberly.livingston@hsbc.com.UK,Stopped Case Assignment,
+anna.wilcox@hsbc.com.UK,Error,TASK-866356
+christian.gates@hsbc.com.SG,Points Earned,TASK-635602
+samantha.jackson@hsbc.com.SG,Task Cancelled,TASK-110417
+maria.atkinson@hsbc.com.MY,Task Returned to RM,TASK-954902
+natalie.holmes@hsbc.com.HK,Task Returned to RM,TASK-600885
+charlene.clark@hsbc.com.HK,Task Cancelled,TASK-256337
+jean.sullivan@hsbc.com.SG,Stopped Case Assignment,
+andrew.taylor@hsbc.com.MY,Log in,
+paul.mcclure@hsbc.com.SG,Stopped Case Assignment,
+annette.hendricks@hsbc.com.SG,Task Cancelled,TASK-31178
+sarah.miller@hsbc.com.SG,Log Out,
+brianna.cook@hsbc.com.SG,Task Completed,TASK-53253
+william.gibson@hsbc.com.SG,Task Returned to RM,TASK-837008
+timothy.garcia@hsbc.com.SG,Stopped Case Assignment,
+marissa.henry@hsbc.com.SG,Task Returned to RM,TASK-110113
+deanna.kennedy@hsbc.com.MY,Continued Case Assignment,TASK-873592
+herbert.weaver@hsbc.com.MY,Stopped Case Assignment,
+erik.phelps@hsbc.com.HK,Task Completed,TASK-988437
+marie.thomas@hsbc.com.UK,Error,TASK-775581
+casey.jones@hsbc.com.UK,Stopped Case Assignment,
+phillip.benton@hsbc.com.MY,Task Assigned,TASK-337249
 angela.baker@hsbc.com.MY,Log in,
-jerry.rodriguez@hsbc.com.HK,Points Earned,TASK-256337
-donald.cain@hsbc.com.MY,Task Opened,TASK-31178
-dillon.shields@hsbc.com.UK,Task Returned to RM,TASK-53253
-mackenzie.taylor@hsbc.com.UK,Points Earned,TASK-837008
-angelica.smith@hsbc.com.UK,Task Opened,TASK-110113
-michelle.grant@hsbc.com.SG,Error,TASK-873592
-karina.henry@hsbc.com.UK,Log Out,
-hannah.velazquez@hsbc.com.MY,Error,TASK-988437
-anita.baxter@hsbc.com.HK,Log in,
-matthew.davis@hsbc.com.UK,Stopped Case Assignment,
-adam.perez@hsbc.com.SG,Task Opened,TASK-775581
-mary.collins@hsbc.com.HK,Stopped Case Assignment,
-jeffrey.simpson@hsbc.com.MY,Points Earned,TASK-337249
-stacey.hicks@hsbc.com.MY,Log Out,
-matthew.jones@hsbc.com.HK,Task Completed,TASK-105922
-ashley.perez@hsbc.com.MY,Stopped Case Assignment,
-michael.james@hsbc.com.HK,Error,TASK-865397
-katherine.hall@hsbc.com.SG,Log Out,
-sharon.newton@hsbc.com.SG,Task Returned to RM,TASK-626660
-timothy.gilmore@hsbc.com.UK,Log in,
-michael.cruz@hsbc.com.UK,Task Cancelled,TASK-922586
-david.osborne@hsbc.com.SG,Continued Case Assignment,TASK-420407
-richard.mason@hsbc.com.UK,Points Earned,TASK-754262
-thomas.douglas@hsbc.com.SG,Log Out,
-nathaniel.moon@hsbc.com.SG,Log Out,
-ryan.howard@hsbc.com.UK,Error,TASK-144629
-richard.miranda@hsbc.com.UK,Stopped Case Assignment,
-victoria.delacruz@hsbc.com.HK,Points Earned,TASK-819676
-timothy.carter@hsbc.com.HK,Task Assigned,TASK-945424
-sean.cooper@hsbc.com.UK,Points Earned,TASK-613736
-john.lopez@hsbc.com.HK,Stopped Case Assignment,
-stephanie.porter@hsbc.com.HK,Points Earned,TASK-998066
-daniel.reyes@hsbc.com.UK,Log Out,
-paul.palmer@hsbc.com.HK,Task Assigned,TASK-982063
-tina.bray@hsbc.com.MY,Stopped Case Assignment,
-ariel.montgomery@hsbc.com.HK,Stopped Case Assignment,
-emma.shaw@hsbc.com.UK,Log in,
-tommy.edwards@hsbc.com.SG,Stopped Case Assignment,
-gabriella.davis@hsbc.com.SG,Task Opened,TASK-977084
-logan.macdonald@hsbc.com.UK,Task Cancelled,TASK-650802
-jeremy.ponce@hsbc.com.MY,Continued Case Assignment,TASK-567022
-tracey.johnston@hsbc.com.UK,Error,TASK-916418
-billy.davis@hsbc.com.UK,Task Returned to RM,TASK-933999
-james.murphy@hsbc.com.MY,Log in,
-daniel.robles@hsbc.com.HK,Continued Case Assignment,TASK-217446
-michael.hall@hsbc.com.SG,Task Returned to RM,TASK-301214
-bradley.reyes@hsbc.com.HK,Continued Case Assignment,TASK-319837
-adam.wilson@hsbc.com.MY,Stopped Case Assignment,
-cassandra.donovan@hsbc.com.MY,Error,TASK-176457
-james.figueroa@hsbc.com.HK,Continued Case Assignment,TASK-962852
-james.smith@hsbc.com.UK,Task Opened,TASK-202627
-peggy.mathis@hsbc.com.MY,Task Completed,TASK-629051
-carl.thompson@hsbc.com.SG,Task Completed,TASK-246994
-jimmy.hebert@hsbc.com.UK,Error,TASK-153554
-patrick.aguirre@hsbc.com.MY,Task Opened,TASK-146417
-ryan.james@hsbc.com.UK,Error,TASK-928476
-kathy.gilbert@hsbc.com.HK,Log in,
-joseph.aguilar@hsbc.com.MY,Task Returned to RM,TASK-249402
-jane.wilcox@hsbc.com.HK,Task Assigned,TASK-280405
-erica.davidson@hsbc.com.MY,Task Assigned,TASK-530100
-caitlin.davis@hsbc.com.UK,Task Cancelled,TASK-836781
-sierra.espinoza@hsbc.com.HK,Log in,
-joshua.schwartz@hsbc.com.MY,Log in,
-christine.hopkins@hsbc.com.MY,Task Cancelled,TASK-328231
-nicholas.berry@hsbc.com.MY,Task Opened,TASK-162325
-donna.harris@hsbc.com.HK,Error,TASK-780097
+jerry.rodriguez@hsbc.com.UK,Points Earned,TASK-105922
+donald.cain@hsbc.com.HK,Task Assigned,TASK-865397
+dillon.shields@hsbc.com.HK,Continued Case Assignment,TASK-626660
+mackenzie.taylor@hsbc.com.MY,Task Assigned,TASK-922586
+angelica.smith@hsbc.com.SG,Task Completed,TASK-420407
+michelle.grant@hsbc.com.HK,Task Completed,TASK-754262
+karina.henry@hsbc.com.HK,Task Completed,TASK-144629
+hannah.velazquez@hsbc.com.SG,Task Returned to RM,TASK-819676
+anita.baxter@hsbc.com.MY,Continued Case Assignment,TASK-945424
+matthew.davis@hsbc.com.HK,Task Assigned,TASK-613736
+adam.perez@hsbc.com.SG,Log Out,
+mary.collins@hsbc.com.HK,Continued Case Assignment,TASK-998066
+jeffrey.simpson@hsbc.com.UK,Stopped Case Assignment,
+stacey.hicks@hsbc.com.SG,Task Completed,TASK-982063
+matthew.jones@hsbc.com.SG,Log in,
+ashley.perez@hsbc.com.HK,Continued Case Assignment,TASK-977084
+michael.james@hsbc.com.HK,Task Completed,TASK-650802
+katherine.hall@hsbc.com.MY,Task Opened,TASK-567022
+sharon.newton@hsbc.com.MY,Stopped Case Assignment,
+timothy.gilmore@hsbc.com.SG,Task Opened,TASK-916418
+michael.cruz@hsbc.com.MY,Log in,
+david.osborne@hsbc.com.UK,Log in,
+richard.mason@hsbc.com.SG,Task Cancelled,TASK-933999
+thomas.douglas@hsbc.com.SG,Task Cancelled,TASK-217446
+nathaniel.moon@hsbc.com.MY,Log in,
+ryan.howard@hsbc.com.UK,Task Returned to RM,TASK-301214
+richard.miranda@hsbc.com.SG,Task Assigned,TASK-319837
+victoria.delacruz@hsbc.com.HK,Task Opened,TASK-176457
+timothy.carter@hsbc.com.SG,Task Opened,TASK-962852
+sean.cooper@hsbc.com.UK,Points Earned,TASK-202627
+john.lopez@hsbc.com.UK,Continued Case Assignment,TASK-629051
+stephanie.porter@hsbc.com.HK,Continued Case Assignment,TASK-246994
+daniel.reyes@hsbc.com.MY,Log Out,
+paul.palmer@hsbc.com.UK,Points Earned,TASK-153554
+tina.bray@hsbc.com.HK,Task Opened,TASK-146417
+ariel.montgomery@hsbc.com.SG,Error,TASK-928476
+emma.shaw@hsbc.com.UK,Task Cancelled,TASK-249402
+tommy.edwards@hsbc.com.MY,Task Opened,TASK-280405
+gabriella.davis@hsbc.com.SG,Log Out,
+logan.macdonald@hsbc.com.MY,Stopped Case Assignment,
+jeremy.ponce@hsbc.com.HK,Points Earned,TASK-530100
+tracey.johnston@hsbc.com.UK,Task Returned to RM,TASK-836781
+billy.davis@hsbc.com.UK,Task Assigned,TASK-328231
+james.murphy@hsbc.com.MY,Task Returned to RM,TASK-162325
+daniel.robles@hsbc.com.MY,Points Earned,TASK-780097
+michael.hall@hsbc.com.HK,Task Completed,TASK-656143
+bradley.reyes@hsbc.com.SG,Task Completed,TASK-294490
+adam.wilson@hsbc.com.SG,Task Completed,TASK-224367
+cassandra.donovan@hsbc.com.HK,Task Opened,TASK-92247
+james.figueroa@hsbc.com.HK,Continued Case Assignment,TASK-152974
+james.smith@hsbc.com.SG,Task Opened,TASK-951844
+peggy.mathis@hsbc.com.HK,Task Returned to RM,TASK-894384
+carl.thompson@hsbc.com.SG,Stopped Case Assignment,
+jimmy.hebert@hsbc.com.MY,Task Cancelled,TASK-706085
+patrick.aguirre@hsbc.com.SG,Task Opened,TASK-436724
+ryan.james@hsbc.com.UK,Points Earned,TASK-200837
+kathy.gilbert@hsbc.com.UK,Points Earned,TASK-218535
+joseph.aguilar@hsbc.com.MY,Task Assigned,TASK-922667
+jane.wilcox@hsbc.com.SG,Error,TASK-627389
+erica.davidson@hsbc.com.MY,Error,TASK-28030
+caitlin.davis@hsbc.com.UK,Task Returned to RM,TASK-378520
+sierra.espinoza@hsbc.com.SG,Continued Case Assignment,TASK-573947
+joshua.schwartz@hsbc.com.SG,Error,TASK-700477
+christine.hopkins@hsbc.com.SG,Continued Case Assignment,TASK-513046
+nicholas.berry@hsbc.com.MY,Error,TASK-721042
+donna.harris@hsbc.com.SG,Task Assigned,TASK-142326
 william.martinez@hsbc.com.HK,Log Out,
-daniel.bartlett@hsbc.com.SG,Task Completed,TASK-656143
-david.barry@hsbc.com.SG,Task Assigned,TASK-294490
-terry.gibson@hsbc.com.MY,Log in,
-matthew.butler@hsbc.com.SG,Task Returned to RM,TASK-224367
-nicholas.cunningham@hsbc.com.HK,Task Cancelled,TASK-92247
-matthew.short@hsbc.com.MY,Task Assigned,TASK-152974
-jesus.wright@hsbc.com.SG,Task Assigned,TASK-951844
-timothy.mcconnell@hsbc.com.UK,Log in,
-andrew.cummings@hsbc.com.HK,Points Earned,TASK-894384
-adam.sullivan@hsbc.com.UK,Task Assigned,TASK-706085
-kathryn.griffin@hsbc.com.UK,Task Opened,TASK-436724
-ruben.king@hsbc.com.MY,Continued Case Assignment,TASK-200837
-thomas.perez@hsbc.com.UK,Error,TASK-218535
-justin.valdez@hsbc.com.SG,Points Earned,TASK-922667
-carol.noble@hsbc.com.SG,Task Returned to RM,TASK-627389
-tanya.boyd@hsbc.com.UK,Stopped Case Assignment,
-christopher.evans@hsbc.com.SG,Log Out,
-april.nunez@hsbc.com.SG,Task Cancelled,TASK-28030
-sophia.moore@hsbc.com.SG,Points Earned,TASK-378520
-benjamin.berg@hsbc.com.SG,Task Opened,TASK-573947
-linda.cannon@hsbc.com.SG,Task Assigned,TASK-700477
-taylor.byrd@hsbc.com.UK,Task Completed,TASK-513046
-robert.lee@hsbc.com.HK,Task Cancelled,TASK-721042
-peter.cobb@hsbc.com.SG,Log Out,
-laurie.woodward@hsbc.com.UK,Log Out,
-pam.fleming@hsbc.com.UK,Log in,
-abigail.ramsey@hsbc.com.MY,Task Assigned,TASK-142326
-isaac.leblanc@hsbc.com.SG,Task Opened,TASK-802052
-jennifer.wheeler@hsbc.com.MY,Task Opened,TASK-864713
-ryan.schultz@hsbc.com.MY,Stopped Case Assignment,
-christine.nolan@hsbc.com.MY,Task Completed,TASK-787306
-ashley.lewis@hsbc.com.MY,Log in,
-scott.sanchez@hsbc.com.UK,Log Out,
-rebecca.bridges@hsbc.com.HK,Log in,
-angela.gonzalez@hsbc.com.HK,Error,TASK-294008
-bradley.anderson@hsbc.com.SG,Points Earned,TASK-95525
-scott.craig@hsbc.com.MY,Task Completed,TASK-952076
-jeffrey.cohen@hsbc.com.MY,Task Assigned,TASK-765219
-michelle.todd@hsbc.com.UK,Points Earned,TASK-743388
-ronald.brewer@hsbc.com.HK,Stopped Case Assignment,
-vanessa.mcclure@hsbc.com.HK,Task Returned to RM,TASK-657966
-matthew.jennings@hsbc.com.HK,Log in,
-frank.grant@hsbc.com.MY,Task Returned to RM,TASK-903764
-michael.kim@hsbc.com.UK,Task Returned to RM,TASK-734834
-scott.alvarado@hsbc.com.HK,Continued Case Assignment,TASK-918571
-meghan.mcdonald@hsbc.com.HK,Task Cancelled,TASK-302834
-dwayne.webster@hsbc.com.HK,Log in,
-karen.finley@hsbc.com.HK,Points Earned,TASK-840244
-phillip.marshall@hsbc.com.UK,Log Out,
-amber.mcclain@hsbc.com.MY,Continued Case Assignment,TASK-638229
-janet.smith@hsbc.com.UK,Task Completed,TASK-782264
-jared.nash@hsbc.com.SG,Points Earned,TASK-241288
-brenda.russo@hsbc.com.SG,Points Earned,TASK-14268
-robert.clark@hsbc.com.SG,Task Cancelled,TASK-947684
-adam.ferrell@hsbc.com.UK,Task Cancelled,TASK-160397
-derek.day@hsbc.com.MY,Task Assigned,TASK-873934
-tracy.james@hsbc.com.HK,Continued Case Assignment,TASK-227193
-amanda.miller@hsbc.com.SG,Stopped Case Assignment,
-tara.vasquez@hsbc.com.SG,Task Opened,TASK-786297
-alexis.barnes@hsbc.com.SG,Points Earned,TASK-615534
-katherine.collins@hsbc.com.SG,Stopped Case Assignment,
-julie.saunders@hsbc.com.HK,Log in,
-john.faulkner@hsbc.com.UK,Task Returned to RM,TASK-718259
-anthony.boyer@hsbc.com.SG,Task Opened,TASK-13538
-william.hernandez@hsbc.com.MY,Log Out,
-jonathan.watkins@hsbc.com.MY,Points Earned,TASK-448511
-joshua.roberson@hsbc.com.HK,Log in,
-jeffrey.cruz@hsbc.com.HK,Task Completed,TASK-143333
-william.morgan@hsbc.com.UK,Task Assigned,TASK-162540
-madison.baker@hsbc.com.MY,Log Out,
-christopher.moore@hsbc.com.HK,Task Assigned,TASK-518524
-courtney.elliott@hsbc.com.UK,Error,TASK-574711
-bryan.kaiser@hsbc.com.MY,Log Out,
-timothy.flores@hsbc.com.HK,Log in,
-jessica.johnson@hsbc.com.MY,Log Out,
-ryan.beck@hsbc.com.UK,Task Completed,TASK-53059
-suzanne.gill@hsbc.com.HK,Task Returned to RM,TASK-537770
-nicole.wilson@hsbc.com.HK,Points Earned,TASK-344229
-russell.johnson@hsbc.com.MY,Log Out,
-joseph.cruz@hsbc.com.MY,Task Cancelled,TASK-240674
-maurice.brooks@hsbc.com.MY,Error,TASK-712346
-leah.lopez@hsbc.com.UK,Task Returned to RM,TASK-192879
-makayla.weaver@hsbc.com.UK,Task Completed,TASK-488806
-matthew.tran@hsbc.com.MY,Task Completed,TASK-341985
-evan.simpson@hsbc.com.HK,Task Assigned,TASK-706425
-andrew.roy@hsbc.com.HK,Continued Case Assignment,TASK-934022
-martin.cooper@hsbc.com.MY,Log Out,
-wanda.austin@hsbc.com.HK,Task Completed,TASK-474088
-robert.gibbs@hsbc.com.SG,Log in,
-carlos.duncan@hsbc.com.HK,Task Returned to RM,TASK-252685
-abigail.callahan@hsbc.com.UK,Task Cancelled,TASK-996312
-brenda.washington@hsbc.com.SG,Task Completed,TASK-690692
-abigail.casey@hsbc.com.SG,Log Out,
-michael.grant@hsbc.com.UK,Task Completed,TASK-678297
-jasmine.cowan@hsbc.com.UK,Log Out,
-heather.hayden@hsbc.com.SG,Error,TASK-779652
-raymond.lynch@hsbc.com.UK,Task Opened,TASK-298716
-julie.bailey@hsbc.com.HK,Continued Case Assignment,TASK-718083
-joseph.kaufman@hsbc.com.UK,Task Assigned,TASK-751859
-michael.cooke@hsbc.com.UK,Continued Case Assignment,TASK-207913
-melissa.robinson@hsbc.com.HK,Points Earned,TASK-115259
-maria.terrell@hsbc.com.SG,Log Out,
-joshua.beck@hsbc.com.UK,Error,TASK-376792
-kayla.miller@hsbc.com.MY,Task Completed,TASK-523952
-lori.parker@hsbc.com.SG,Continued Case Assignment,TASK-295377
-jasmine.clements@hsbc.com.UK,Task Opened,TASK-379754
-austin.carr@hsbc.com.SG,Stopped Case Assignment,
-kelly.wilson@hsbc.com.MY,Task Cancelled,TASK-574811
-jennifer.werner@hsbc.com.SG,Log in,
-william.reed@hsbc.com.SG,Log in,
-shane.perry@hsbc.com.UK,Continued Case Assignment,TASK-627225
-amanda.ortiz@hsbc.com.SG,Stopped Case Assignment,
-christopher.krause@hsbc.com.UK,Points Earned,TASK-306457
-wendy.thompson@hsbc.com.SG,Points Earned,TASK-238455
-john.kim@hsbc.com.HK,Stopped Case Assignment,
-holly.johnson@hsbc.com.HK,Error,TASK-309618
-mary.little@hsbc.com.SG,Log Out,
-joseph.pitts@hsbc.com.HK,Task Opened,TASK-589202
-donna.stewart@hsbc.com.SG,Stopped Case Assignment,
-amy.krause@hsbc.com.UK,Task Completed,TASK-421530
-brandon.erickson@hsbc.com.SG,Task Cancelled,TASK-78657
-melissa.schwartz@hsbc.com.MY,Task Opened,TASK-193711
-donald.harper@hsbc.com.MY,Task Completed,TASK-403810
-kristi.barnes@hsbc.com.SG,Task Opened,TASK-129322
-brandi.king@hsbc.com.UK,Task Cancelled,TASK-628656
-lawrence.stokes@hsbc.com.MY,Log Out,
-tracy.cole@hsbc.com.SG,Task Assigned,TASK-962607
-david.brooks@hsbc.com.HK,Log Out,
-abigail.hall@hsbc.com.MY,Task Opened,TASK-693358
-lindsey.reyes@hsbc.com.SG,Task Completed,TASK-109830
-john.parker@hsbc.com.UK,Task Returned to RM,TASK-552017
-madison.strong@hsbc.com.SG,Task Returned to RM,TASK-903938
-susan.smith@hsbc.com.SG,Log in,
-karen.fox@hsbc.com.HK,Log Out,
-david.wright@hsbc.com.SG,Log in,
-juan.powell@hsbc.com.SG,Task Assigned,TASK-155206
-thomas.zuniga@hsbc.com.SG,Continued Case Assignment,TASK-760472
-brian.fletcher@hsbc.com.UK,Task Assigned,TASK-922518
-melissa.howard@hsbc.com.SG,Task Assigned,TASK-972512
-john.walker@hsbc.com.UK,Log in,
-kevin.thomas@hsbc.com.UK,Points Earned,TASK-969732
-andrea.wright@hsbc.com.SG,Task Opened,TASK-493200
-anthony.hall@hsbc.com.MY,Task Opened,TASK-161184
-lori.butler@hsbc.com.HK,Log Out,
-nicole.acevedo@hsbc.com.SG,Error,TASK-453081
-john.castro@hsbc.com.SG,Continued Case Assignment,TASK-284305
-nicole.perkins@hsbc.com.SG,Error,TASK-949684
-gary.wright@hsbc.com.SG,Task Opened,TASK-779191
-vanessa.evans@hsbc.com.SG,Task Completed,TASK-572201
-mindy.norton@hsbc.com.SG,Log Out,
-judy.bowen@hsbc.com.HK,Task Returned to RM,TASK-214558
-kristy.boone@hsbc.com.HK,Task Cancelled,TASK-808351
-bryan.jackson@hsbc.com.MY,Log in,
-william.lewis@hsbc.com.MY,Task Cancelled,TASK-839735
-amanda.snyder@hsbc.com.SG,Log Out,
-david.miller@hsbc.com.HK,Task Opened,TASK-196271
-alexander.bryan@hsbc.com.UK,Stopped Case Assignment,
-christopher.nixon@hsbc.com.MY,Task Returned to RM,TASK-784965
-tonya.reese@hsbc.com.UK,Log Out,
-shannon.hill@hsbc.com.HK,Error,TASK-81757
-robert.reed@hsbc.com.SG,Task Completed,TASK-287936
-randy.barber@hsbc.com.MY,Stopped Case Assignment,
-patricia.moore@hsbc.com.HK,Log Out,
-john.clark@hsbc.com.MY,Log Out,
-brandon.dickerson@hsbc.com.HK,Task Assigned,TASK-471891
-william.jones@hsbc.com.MY,Log in,
-sean.hayes@hsbc.com.SG,Error,TASK-352938
-kimberly.juarez@hsbc.com.MY,Task Returned to RM,TASK-404440
-dennis.sims@hsbc.com.SG,Log in,
-william.smith@hsbc.com.HK,Task Completed,TASK-546738
-dylan.estrada@hsbc.com.MY,Log Out,
-michael.stuart@hsbc.com.HK,Stopped Case Assignment,
-warren.barker@hsbc.com.UK,Task Cancelled,TASK-63753
-dennis.mendoza@hsbc.com.HK,Stopped Case Assignment,
-jessica.bass@hsbc.com.MY,Log Out,
-james.sanders@hsbc.com.SG,Points Earned,TASK-371049
-thomas.alexander@hsbc.com.MY,Log in,
-thomas.phillips@hsbc.com.HK,Task Returned to RM,TASK-883589
-lindsey.gentry@hsbc.com.HK,Stopped Case Assignment,
-michael.little@hsbc.com.UK,Stopped Case Assignment,
-oscar.riley@hsbc.com.UK,Error,TASK-914489
-heather.mason@hsbc.com.MY,Task Opened,TASK-418965
-emily.sherman@hsbc.com.HK,Continued Case Assignment,TASK-781337
-megan.lopez@hsbc.com.MY,Task Returned to RM,TASK-767000
-javier.robertson@hsbc.com.MY,Continued Case Assignment,TASK-412607
-william.morton@hsbc.com.UK,Task Cancelled,TASK-586274
-zachary.mccullough@hsbc.com.HK,Log in,
-kimberly.hunter@hsbc.com.UK,Task Returned to RM,TASK-141980
-margaret.alvarez@hsbc.com.MY,Task Returned to RM,TASK-819739
-matthew.hamilton@hsbc.com.MY,Task Opened,TASK-754325
-stephen.santos@hsbc.com.MY,Error,TASK-757055
-brett.blair@hsbc.com.SG,Task Assigned,TASK-577369
-tammy.ellis@hsbc.com.SG,Task Opened,TASK-606882
-casey.harris@hsbc.com.MY,Log Out,
-dakota.scott@hsbc.com.SG,Error,TASK-169326
-laura.smith@hsbc.com.SG,Task Cancelled,TASK-697932
-morgan.ayers@hsbc.com.SG,Task Opened,TASK-46474
-jackson.thompson@hsbc.com.SG,Task Completed,TASK-330226
-tammy.ward@hsbc.com.UK,Task Completed,TASK-656657
-lisa.smith@hsbc.com.UK,Task Cancelled,TASK-475224
-vicki.smith@hsbc.com.SG,Task Completed,TASK-551325
-cathy.hebert@hsbc.com.HK,Task Opened,TASK-808395
-marie.collins@hsbc.com.MY,Log in,
-lynn.long@hsbc.com.MY,Points Earned,TASK-613408
-vincent.cox@hsbc.com.HK,Stopped Case Assignment,
-michael.perkins@hsbc.com.UK,Task Opened,TASK-446062
-kimberly.lyons@hsbc.com.SG,Log in,
-kayla.smith@hsbc.com.HK,Error,TASK-230342
-amanda.gomez@hsbc.com.HK,Continued Case Assignment,TASK-501479
+daniel.bartlett@hsbc.com.UK,Task Completed,TASK-802052
+david.barry@hsbc.com.MY,Stopped Case Assignment,
+terry.gibson@hsbc.com.UK,Log in,
+matthew.butler@hsbc.com.HK,Error,TASK-864713
+nicholas.cunningham@hsbc.com.UK,Points Earned,TASK-787306
+matthew.short@hsbc.com.SG,Task Assigned,TASK-294008
+jesus.wright@hsbc.com.UK,Task Completed,TASK-95525
+timothy.mcconnell@hsbc.com.MY,Continued Case Assignment,TASK-952076
+andrew.cummings@hsbc.com.HK,Task Assigned,TASK-765219
+adam.sullivan@hsbc.com.MY,Stopped Case Assignment,
+kathryn.griffin@hsbc.com.UK,Task Completed,TASK-743388
+ruben.king@hsbc.com.MY,Task Opened,TASK-657966
+thomas.perez@hsbc.com.HK,Stopped Case Assignment,
+justin.valdez@hsbc.com.MY,Task Cancelled,TASK-903764
+carol.noble@hsbc.com.MY,Log in,
+tanya.boyd@hsbc.com.HK,Points Earned,TASK-734834
+christopher.evans@hsbc.com.HK,Continued Case Assignment,TASK-918571
+april.nunez@hsbc.com.HK,Task Returned to RM,TASK-302834
+sophia.moore@hsbc.com.HK,Continued Case Assignment,TASK-840244
+benjamin.berg@hsbc.com.HK,Task Assigned,TASK-638229
+linda.cannon@hsbc.com.MY,Error,TASK-782264
+taylor.byrd@hsbc.com.UK,Task Returned to RM,TASK-241288
+robert.lee@hsbc.com.SG,Task Returned to RM,TASK-14268
+peter.cobb@hsbc.com.HK,Log in,
+laurie.woodward@hsbc.com.MY,Continued Case Assignment,TASK-947684
+pam.fleming@hsbc.com.HK,Task Completed,TASK-160397
+abigail.ramsey@hsbc.com.HK,Stopped Case Assignment,
+isaac.leblanc@hsbc.com.SG,Log in,
+jennifer.wheeler@hsbc.com.MY,Log in,
+ryan.schultz@hsbc.com.UK,Continued Case Assignment,TASK-873934
+christine.nolan@hsbc.com.MY,Log in,
+ashley.lewis@hsbc.com.HK,Log Out,
+scott.sanchez@hsbc.com.MY,Log Out,
+rebecca.bridges@hsbc.com.MY,Task Completed,TASK-227193
+angela.gonzalez@hsbc.com.UK,Points Earned,TASK-786297
+bradley.anderson@hsbc.com.UK,Log in,
+scott.craig@hsbc.com.SG,Task Opened,TASK-615534
+jeffrey.cohen@hsbc.com.HK,Log in,
+michelle.todd@hsbc.com.SG,Error,TASK-718259
+ronald.brewer@hsbc.com.SG,Task Completed,TASK-13538
+vanessa.mcclure@hsbc.com.SG,Log in,
+matthew.jennings@hsbc.com.HK,Continued Case Assignment,TASK-448511
+frank.grant@hsbc.com.UK,Task Cancelled,TASK-143333
+michael.kim@hsbc.com.SG,Log Out,
+scott.alvarado@hsbc.com.UK,Task Assigned,TASK-162540
+meghan.mcdonald@hsbc.com.SG,Points Earned,TASK-518524
+dwayne.webster@hsbc.com.SG,Stopped Case Assignment,
+karen.finley@hsbc.com.HK,Task Assigned,TASK-574711
+phillip.marshall@hsbc.com.MY,Stopped Case Assignment,
+amber.mcclain@hsbc.com.HK,Log in,
+janet.smith@hsbc.com.SG,Points Earned,TASK-53059
+jared.nash@hsbc.com.SG,Task Cancelled,TASK-537770
+brenda.russo@hsbc.com.UK,Points Earned,TASK-344229
+robert.clark@hsbc.com.SG,Points Earned,TASK-240674
+adam.ferrell@hsbc.com.MY,Continued Case Assignment,TASK-712346
+derek.day@hsbc.com.SG,Task Completed,TASK-192879
+tracy.james@hsbc.com.HK,Points Earned,TASK-488806
+amanda.miller@hsbc.com.MY,Points Earned,TASK-341985
+tara.vasquez@hsbc.com.HK,Points Earned,TASK-706425
+alexis.barnes@hsbc.com.UK,Task Returned to RM,TASK-934022
+katherine.collins@hsbc.com.MY,Task Assigned,TASK-474088
+julie.saunders@hsbc.com.HK,Task Returned to RM,TASK-252685
+john.faulkner@hsbc.com.UK,Points Earned,TASK-996312
+anthony.boyer@hsbc.com.HK,Error,TASK-690692
+william.hernandez@hsbc.com.HK,Task Returned to RM,TASK-678297
+jonathan.watkins@hsbc.com.UK,Error,TASK-779652
+joshua.roberson@hsbc.com.HK,Points Earned,TASK-298716
+jeffrey.cruz@hsbc.com.SG,Points Earned,TASK-718083
+william.morgan@hsbc.com.SG,Error,TASK-751859
+madison.baker@hsbc.com.UK,Error,TASK-207913
+christopher.moore@hsbc.com.SG,Task Assigned,TASK-115259
+courtney.elliott@hsbc.com.HK,Continued Case Assignment,TASK-376792
+bryan.kaiser@hsbc.com.MY,Task Cancelled,TASK-523952
+timothy.flores@hsbc.com.HK,Task Cancelled,TASK-295377
+jessica.johnson@hsbc.com.MY,Task Returned to RM,TASK-379754
+ryan.beck@hsbc.com.HK,Task Completed,TASK-574811
+suzanne.gill@hsbc.com.SG,Log Out,
+nicole.wilson@hsbc.com.HK,Log Out,
+russell.johnson@hsbc.com.SG,Error,TASK-627225
+joseph.cruz@hsbc.com.SG,Task Completed,TASK-306457
+maurice.brooks@hsbc.com.SG,Task Returned to RM,TASK-238455
+leah.lopez@hsbc.com.UK,Log Out,
+makayla.weaver@hsbc.com.MY,Task Opened,TASK-309618
+matthew.tran@hsbc.com.MY,Task Opened,TASK-589202
+evan.simpson@hsbc.com.HK,Task Returned to RM,TASK-421530
+andrew.roy@hsbc.com.UK,Error,TASK-78657
+martin.cooper@hsbc.com.UK,Task Assigned,TASK-193711
+wanda.austin@hsbc.com.MY,Stopped Case Assignment,
+robert.gibbs@hsbc.com.HK,Continued Case Assignment,TASK-403810
+carlos.duncan@hsbc.com.UK,Task Opened,TASK-129322
+abigail.callahan@hsbc.com.UK,Task Completed,TASK-628656
+brenda.washington@hsbc.com.MY,Log in,
+abigail.casey@hsbc.com.UK,Error,TASK-962607
+michael.grant@hsbc.com.UK,Task Returned to RM,TASK-693358
+jasmine.cowan@hsbc.com.SG,Task Completed,TASK-109830
+heather.hayden@hsbc.com.SG,Continued Case Assignment,TASK-552017
+raymond.lynch@hsbc.com.MY,Task Opened,TASK-903938
+julie.bailey@hsbc.com.SG,Stopped Case Assignment,
+joseph.kaufman@hsbc.com.UK,Stopped Case Assignment,
+michael.cooke@hsbc.com.HK,Points Earned,TASK-155206
+melissa.robinson@hsbc.com.UK,Task Assigned,TASK-760472
+maria.terrell@hsbc.com.MY,Task Cancelled,TASK-922518
+joshua.beck@hsbc.com.UK,Log Out,
+kayla.miller@hsbc.com.MY,Log Out,
+lori.parker@hsbc.com.MY,Stopped Case Assignment,
+jasmine.clements@hsbc.com.UK,Error,TASK-972512
+austin.carr@hsbc.com.SG,Task Completed,TASK-969732
+kelly.wilson@hsbc.com.UK,Error,TASK-493200
+jennifer.werner@hsbc.com.UK,Task Returned to RM,TASK-161184
+william.reed@hsbc.com.SG,Points Earned,TASK-453081
+shane.perry@hsbc.com.SG,Task Assigned,TASK-284305
+amanda.ortiz@hsbc.com.UK,Log in,
+christopher.krause@hsbc.com.SG,Error,TASK-949684
+wendy.thompson@hsbc.com.SG,Log Out,
+john.kim@hsbc.com.UK,Log Out,
+holly.johnson@hsbc.com.MY,Log in,
+mary.little@hsbc.com.MY,Continued Case Assignment,TASK-779191
+joseph.pitts@hsbc.com.MY,Task Returned to RM,TASK-572201
+donna.stewart@hsbc.com.UK,Task Cancelled,TASK-214558
+amy.krause@hsbc.com.SG,Task Opened,TASK-808351
+brandon.erickson@hsbc.com.MY,Log in,
+melissa.schwartz@hsbc.com.MY,Log in,
+donald.harper@hsbc.com.HK,Error,TASK-839735
+kristi.barnes@hsbc.com.MY,Task Opened,TASK-196271
+brandi.king@hsbc.com.SG,Task Returned to RM,TASK-784965
+lawrence.stokes@hsbc.com.UK,Task Cancelled,TASK-81757
+tracy.cole@hsbc.com.HK,Stopped Case Assignment,
+david.brooks@hsbc.com.UK,Task Opened,TASK-287936
+abigail.hall@hsbc.com.SG,Continued Case Assignment,TASK-471891
+lindsey.reyes@hsbc.com.UK,Task Opened,TASK-352938
+john.parker@hsbc.com.HK,Task Cancelled,TASK-404440
+madison.strong@hsbc.com.HK,Stopped Case Assignment,
+susan.smith@hsbc.com.HK,Task Opened,TASK-546738
+karen.fox@hsbc.com.HK,Stopped Case Assignment,
+david.wright@hsbc.com.HK,Error,TASK-63753
+juan.powell@hsbc.com.SG,Continued Case Assignment,TASK-371049
+thomas.zuniga@hsbc.com.SG,Error,TASK-883589
+brian.fletcher@hsbc.com.SG,Task Cancelled,TASK-914489
+melissa.howard@hsbc.com.HK,Task Assigned,TASK-418965
+john.walker@hsbc.com.MY,Task Assigned,TASK-781337
+kevin.thomas@hsbc.com.HK,Task Opened,TASK-767000
+andrea.wright@hsbc.com.HK,Error,TASK-412607
+anthony.hall@hsbc.com.SG,Task Opened,TASK-586274
+lori.butler@hsbc.com.MY,Continued Case Assignment,TASK-141980
+nicole.acevedo@hsbc.com.UK,Error,TASK-819739
+john.castro@hsbc.com.MY,Task Cancelled,TASK-754325
+nicole.perkins@hsbc.com.MY,Task Returned to RM,TASK-757055
+gary.wright@hsbc.com.SG,Task Completed,TASK-577369
+vanessa.evans@hsbc.com.SG,Task Completed,TASK-606882
+mindy.norton@hsbc.com.HK,Task Assigned,TASK-169326
+judy.bowen@hsbc.com.UK,Error,TASK-697932
+kristy.boone@hsbc.com.UK,Task Completed,TASK-46474
+bryan.jackson@hsbc.com.SG,Task Returned to RM,TASK-330226
+william.lewis@hsbc.com.HK,Task Cancelled,TASK-656657
+amanda.snyder@hsbc.com.SG,Task Returned to RM,TASK-475224
+david.miller@hsbc.com.UK,Task Opened,TASK-551325
+alexander.bryan@hsbc.com.HK,Error,TASK-808395
+christopher.nixon@hsbc.com.MY,Points Earned,TASK-613408
+tonya.reese@hsbc.com.SG,Log Out,
+shannon.hill@hsbc.com.SG,Error,TASK-446062
+robert.reed@hsbc.com.UK,Points Earned,TASK-230342
+randy.barber@hsbc.com.UK,Log in,
+patricia.moore@hsbc.com.UK,Continued Case Assignment,TASK-501479
+john.clark@hsbc.com.HK,Points Earned,TASK-223329
+brandon.dickerson@hsbc.com.MY,Error,TASK-420440
+william.jones@hsbc.com.SG,Log in,
+sean.hayes@hsbc.com.HK,Continued Case Assignment,TASK-101986
+kimberly.juarez@hsbc.com.SG,Task Cancelled,TASK-112309
+dennis.sims@hsbc.com.UK,Error,TASK-571308
+william.smith@hsbc.com.MY,Log Out,
+dylan.estrada@hsbc.com.MY,Error,TASK-431647
+michael.stuart@hsbc.com.HK,Task Opened,TASK-137511
+warren.barker@hsbc.com.MY,Log Out,
+dennis.mendoza@hsbc.com.HK,Continued Case Assignment,TASK-541332
+jessica.bass@hsbc.com.UK,Task Returned to RM,TASK-716204
+james.sanders@hsbc.com.HK,Task Cancelled,TASK-499228
+thomas.alexander@hsbc.com.UK,Continued Case Assignment,TASK-795821
+thomas.phillips@hsbc.com.SG,Continued Case Assignment,TASK-695188
+lindsey.gentry@hsbc.com.MY,Points Earned,TASK-186086
+michael.little@hsbc.com.SG,Error,TASK-43849
+oscar.riley@hsbc.com.SG,Task Completed,TASK-221300
+heather.mason@hsbc.com.UK,Task Completed,TASK-254328
+emily.sherman@hsbc.com.SG,Task Assigned,TASK-262403
+megan.lopez@hsbc.com.SG,Log in,
+javier.robertson@hsbc.com.MY,Task Returned to RM,TASK-109758
+william.morton@hsbc.com.SG,Log in,
+zachary.mccullough@hsbc.com.UK,Task Returned to RM,TASK-637583
+kimberly.hunter@hsbc.com.UK,Stopped Case Assignment,
+margaret.alvarez@hsbc.com.HK,Task Cancelled,TASK-406342
+matthew.hamilton@hsbc.com.SG,Points Earned,TASK-436238
+stephen.santos@hsbc.com.MY,Error,TASK-83046
+brett.blair@hsbc.com.UK,Points Earned,TASK-940642
+tammy.ellis@hsbc.com.UK,Log Out,
+casey.harris@hsbc.com.MY,Task Opened,TASK-878812
+dakota.scott@hsbc.com.MY,Points Earned,TASK-584585
+laura.smith@hsbc.com.UK,Error,TASK-232947
+morgan.ayers@hsbc.com.HK,Task Opened,TASK-561169
+jackson.thompson@hsbc.com.HK,Task Opened,TASK-218364
+tammy.ward@hsbc.com.SG,Stopped Case Assignment,
+lisa.smith@hsbc.com.UK,Task Assigned,TASK-239107
+vicki.smith@hsbc.com.MY,Task Assigned,TASK-525675
+cathy.hebert@hsbc.com.SG,Log Out,
+marie.collins@hsbc.com.MY,Error,TASK-105270
+lynn.long@hsbc.com.SG,Task Assigned,TASK-210765
+vincent.cox@hsbc.com.UK,Task Completed,TASK-979628
+michael.perkins@hsbc.com.HK,Points Earned,TASK-911018
+kimberly.lyons@hsbc.com.MY,Error,TASK-114479
+kayla.smith@hsbc.com.UK,Points Earned,TASK-548133
+amanda.gomez@hsbc.com.HK,Stopped Case Assignment,
